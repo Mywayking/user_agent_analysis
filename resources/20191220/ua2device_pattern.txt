@@ -1,0 +1,91 @@
+Apple^iPad^3^iPad
+Apple^iPhone^2^iPhone|IPHONE
+LEADER^Haier Leader TV^4^Haier Leader TV
+MOOKA^Haier MOOKA TV^4^Haier MOOKA TV
+IDEATABA^Lenovo^3^Lenovo Tablet
+CHNAGHONG^ChangHong TV^4^ChangHong TV|CHANGHONG
+KIUI^Kaiboer KIUI^4^Kaiboer KIUI
+HIMEDIA^Himedia Box^4^Himedia Box
+XMATE^Diyomate TV^4^Diyomate TV
+10MOONS^10moons Box^4^10moons Box
+SKYWORTH^Skyworth TV^4^Skyworth TV
+PIONEER^Pioneer TV^4^Pioneer TV
+PULIER^PULIER Box^4^PULIER Box
+BAOFENG^BaoFeng TV^4^BaoFeng TV
+Vivo^vivo Xplay^2^VIVO XPLAY
+ZUK^Lenovo^2^LenovoZUK
+WTV^WHALEY TV^4^WHALEY TV
+Bestsonny^Bestsonny^2^Bestsonny
+NuoFei^NuoFei^2^NUOFEI
+HAIER^Haier TV^4^Haier TV
+Lenovo^Lenovo IdeaTab^3^IDEATABA
+SHARP^Sharp TV^4^Sharp TV
+SAMSUNG^SAMSUNG^0^SAMSUNG|SCH|SM-|GT-
+WellPhone^WellPhone^2^WELLPHONE
+HISENSE^Hisense^0^Hisense
+Lephone^lephone^2^LEPHONE
+Daxian^Daxian^2^DAXIAN
+ECETD^ECETD^2^ECETD
+Nokia^Nokia^2^NOKIA
+Yepen^Yepen^2^YEPEN
+Google TV^Google TV^4^Google TV|GoogleTV
+Sharp TV^AQUOS TV^4^AQUOSBrowser|AQUOS-AS
+Sony TV^Sony Internet TV^4^SonyDTV|SonyBDP|SonyCEBrowser
+Philips TV^Philips Net TV^4^NETTV
+LG TV^LG NetCast TV^4^LG NetCast|LG NetCast.TV|LG NetCast.Media
+Toshiba TV^Toshiba Smart TV^4^ToshibaTP|Toshiba_TP|TSBNetTV
+TechniSat^TechniSat^4^TechniSat
+Technicolor^Technicolor^4^Technicolor_
+Samsung TV^Samsung Smart TV^4^SMART-TV
+Roku^Roku^4^Roku
+Wileyfox^Wileyfox^2^wileyfox
+K-Touch^K-Touch^2^K-Touch
+Coolpad^Coolpad^0^Coolpad
+WASU^WASU TV^4^WASU TV
+Coolpad^Coolpad^2^COOLPAD
+TCL^TCL TV^4^TCL TV
+TCL^TCL^2^TCL
+Meizu^Meizu^2^MEIZU
+YUEQEE^YUEQEE^2^YUEQEE
+Lenovo^Yoga Tablet^3^YOGA
+Smartisan^Smartisan^2^SMARTISAN
+INPHIC^INPHIC^4^INPHIC
+Lenovo^Lenovo^0^Lenovo
+koobee^koobee^2^koobee
+TOPBOX^TopBox^4^TopBox
+TSHIFI^TSHIFI^4^TSHIFI
+UOOGOU^UOOGOU^2^UOOGOU
+EGREAT^Egreat^4^Egreat
+HUAWEI^Huawei^0^Huawei
+MiBOX^MiBOX^4^MiBOX
+Tecno^Tecno^2^TECNO
+Tftc^Tftc^2^TFTC
+Voto^Voto^2^VOTO
+Tinai^Tinai^2^Tinai
+Xiaomi^HM NOTE^2^REDMI
+ivvi^ivvi^2^ivvi
+KEJIAN^KEJIAN^2^KEJIAN
+TbooK^TbooK^3^TBOOK
+Lovme^Lovme^2^Lovme
+VSOON^VSOON^4^VSOON
+Konka^Konka^4^Konka
+SONY^Sony^0^SonyLenovo
+JMGO^JmGO^4^JmGO
+GOLY^GOLY^2^GOLY
+Lenovo TV^IDEATV^4^17TV
+MELE^MELE^4^MELE
+MiTV^MiTV^4^MiTV
+OPPO^OPPO^2^OPPO
+LeEco^LeTV^4^LeTV
+PPTV^PPTV^4^PPTV
+VIVI^vivi^2^vivi
+Doov^Doov^2^Doov
+Vivo^vivo^2^VIVO
+ETON^ETON^2^ETON
+JMGO^JmGO^4^JmGO
+GIONEE^GIONEE^2^GN9|GIONE|GM |GM-
+ZTE^ZTE^2^ZTE
+HTC^HTC^0^HTC
+Huawei^HuaweiHONOR^2^KIW
+LG^LG^0^LG
+Bifermobile^Bifermobile^2^BF

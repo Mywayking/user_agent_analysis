@@ -1,0 +1,176 @@
+20180629
+删除
+Diyomate^Google Tv Player^4^A6
+
+添加整条数据到 ua2device_pattern.txt
+Google TV^Google TV^4^Google TV
+Sharp TV^AQUOS TV^4^AQUOSBrowser|AQUOS-AS
+Sony TV^Sony Internet TV^4^SonyDTV|SonyBDP|SonyCEBrowser
+Philips TV^Philips Net TV^4^NETTV
+LG TV^LG NetCast TV^4^LG NetCast|LG NetCast.TV|LG NetCast.Media
+Toshiba TV^Toshiba Smart TV^4^ToshibaTP|Toshiba_TP|TSBNetTV
+TechniSat^TechniSat^4^TechniSat
+Technicolor^Technicolor^4^Technicolor_
+Samsung TV^Samsung Smart TV^4^SMART-TV
+Roku^Roku^4^Roku
+
+添加匹配字符串
+Samsung TV^Samsung Smart TV^4^SMARTHUB|CIBN SMARTTV|SMART-TV
+
+20180702
+更新
+Bqeel^X9^4^X96|X96-PAD|X96-W|X96JS|X96JTYL|X96MINI|X96W+|X9 MINI|X9 MX4|X9PRO|X903|X903S|X98 PLUS|X98 AIR ? HG9M|X98 AIR A HG9M|X98 AIR SMILE|X906|X92_3GB|X918|X9180
+
+
+20190116
+跟新
+10moons Box^10MOONS_D6Q^4^10MOONS D6Q|10MOONS_D6Q
+10moons Box^10MOONS_A10S^4^10MOONS_A10S
+10moons Box^10MOONS_D8G^4^10MOONS_D8G
+QUE^Carbon^2^CARPAD-II-P|CARNAVIUI4.0.0-105A|CARNAVIUI4.0.0-125A-T3|CARNAVIUI4.0.0-105A-0RYCH.T2|CARNAVIUI4.0.0-109A-T3|CAR NAVIGATION SYSTEM|CARL|CARNAVIUI4.0.0-109A-T2|CARNAVIUI4.0.0-110A-T3|CAR
+删除
+Trio^Stealth Lite^3^43PFF5282_T3|43PFF5621_T3|43PFF5071|43PUD6701_30|43PUF6061_T3_3RD|43PUF6721_T3|43PFF5011|43D09|43PFF5292_T3|43PFF5021|43PFF5031|43D2F3000|43PFF5361_T3|43PFF5752|43S ANDROID TV|43PUF6701_T3|43PFF5222_T3|M4322|43PFF5701|43PFF5301_T3|43PFF5000|43PFF5650|43PFF5657|43D2FA|43PFF5659|43BFF6656|43PFF5231/T3|43D09AW|43PFF5661_T3|43PUF6701|43PUF6721_T3_3RD|43PFF5755|43HUF6982_T3|43PUF6061_T3|M431|43D2F3100|43BS2700|43PFF5212_T3|43X600|4371|43PFF5311_T3
+QUE^Carbon 5.5^2^CARPAD-II-P|CARNAVIUI4.0.0-105A|CARNAVIUI4.0.0-125A-T3|CARNAVIUI4.0.0-105A-0RYCH.T2|CARNAVIUI4.0.0-109A-T3|CAR NAVIGATION SYSTEM|CARL|CARNAVIUI4.0.0-109A-T2|CARNAVIUI4.0.0-110A-T3|CAR
+
+['Vivo', 'V1829T', '2', 'V1829T']
+['Vivo', 'V1836A', '2', 'V1836A']
+['Huawei', 'LND-AL40', '2', 'LND-AL40']
+['Meizu', '16 X', '2', '16 X']
+['Xiaomi', 'Redmi Note 7 Pro', '2', 'REDMI NOTE 7 PRO']
+['Huawei', 'BAH2-W09', '2', 'BAH2-W09']
+['Huawei', 'RVL-AL09', '2', 'RVL-AL09']
+['Nokia', 'X7', '2', 'NOKIA X7']
+['Xiaomi', 'Redmi S2', '2', 'REDMI S2']
+['Vivo', 'V1821A', '2', 'V1821A']
+['Huawei', 'HUAWEI MT7-TL10', '2', 'HUAWEI MT7-TL10']
+['Huawei', 'SCM-W09', '2', 'SCM-W09']
+['Huawei', 'AGS2-AL00', '2', 'AGS2-AL00']
+['Huawei', 'LND-TL40', '2', 'LND-TL40']
+['OPPO', 'PCEM00', '2', 'PCEM00']
+['Huawei', 'AUM-AL20', '2', 'AUM-AL20']
+['Huawei', 'AUM-AL00', '2', 'AUM-AL00']
+['Huawei', 'JSN-AL00', '2', 'JSN-AL00']
+['Huawei', 'HRY-AL00T', '2', 'HRY-AL00T']
+['OPPO', 'PCDT10', '2', 'PCDT10']
+['Xiaomi', 'Redmi Note 7', '2', 'REDMI NOTE 7']
+['Huawei', 'AGS2-W09HN', '2', 'AGS2-W09HN']
+['Huawei', 'MYA-TL10', '2', 'MYA-TL10']
+['Samsung', 'SM-G8870', '2', 'SM-G8870']
+['OPPO', 'PCDM00', '2', 'PCDM00']
+['Vivo', 'V1914A', '2', 'V1914A']
+['Xiaomi', 'Redmi K20 Pro Premium Edition', '2', 'REDMI K20 PRO PREMIUM EDITION']
+['Xiaomi', 'MI 9 SE', '2', 'MI 9 SE']
+['Xiaomi', 'MI MAX 3', '2', 'MI MAX 3']
+['OPPO', 'PBFM00', '2', 'PBFM00']
+['Huawei', 'MAR-TL00', '2', 'MAR-TL00']
+['Vivo', 'V1818T', '2', 'V1818T']
+['Huawei', 'POT-AL00', '2', 'POT-AL00']
+['Xiaomi', 'MI 9', '2', 'MI 9']
+['Huawei', 'HLK-AL10', '2', 'HLK-AL10']
+['Xiaomi', 'MI 8 UD', '2', 'MI 8 UD']
+['CMCC', 'CMCC M761', '2', 'CMCC M761']
+['Xiaomi', 'MI CC 9', '2', 'MI CC 9']
+['Huawei', 'DUA-TL00', '2', 'DUA-TL00']
+['Vivo', 'V1831T', '2', 'V1831T']
+['ONEPLUS', 'GM1900', '2', 'GM1900']
+['Huawei', 'CMR-W09', '2', 'CMR-W09']
+['Huawei', 'SEA-AL00', '2', 'SEA-AL00']
+['Vivo', 'V1924A', '2', 'V1924A']
+['Huawei', 'VCE-TL00', '2', 'VCE-TL00']
+['Huawei', 'TNY-AL00', '2', 'TNY-AL00']
+['Huawei', 'COL-TL10', '2', 'COL-TL10']
+['Huawei', 'SHT-AL09', '2', 'SHT-AL09']
+['Xiaomi', 'Redmi K20', '2', 'REDMI K20']
+['Huawei', 'ARE-AL10', '2', 'ARE-AL10']
+['Huawei', 'JMM-AL10', '2', 'JMM-AL10']
+['Huawei', 'COR-AL00', '2', 'COR-AL00']
+['Xiaomi', 'Redmi K20 Pro', '2', 'REDMI K20 PRO']
+['Meizu', '15', '2', '15']
+['Huawei', 'JAT-TL00', '2', 'JAT-TL00']
+['Huawei', 'JAT-AL00', '2', 'JAT-AL00']
+['Huawei', 'DUB-TL00', '2', 'DUB-TL00']
+['Xiaomi', 'Redmi Note 8', '2', 'REDMI NOTE 8']
+['OPPO', 'PBCM30', '2', 'PBCM30']
+['Huawei', 'JKM-TL00', '2', 'JKM-TL00']
+['Xiaomi', 'Redmi 6A', '2', 'REDMI 6A']
+['Huawei', 'DUB-AL20', '2', 'DUB-AL20']
+['OPPO', 'PBFT00', '2', 'PBFT00']
+['Vivo', 'V1813T', '2', 'V1813T']
+['Huawei', 'COR-AL10', '2', 'COR-AL10']
+['Huawei', 'LYA-TL00', '2', 'LYA-TL00']
+['Xiaomi', 'MI CC 9e', '2', 'MI CC 9E']
+['Vivo', 'V1809T', '2', 'V1809T']
+['Huawei', 'JSN-TL00', '2', 'JSN-TL00']
+['Huawei', 'ARE-AL00', '2', 'ARE-AL00']
+['Vivo', 'V1838T', '2', 'V1838T']
+['Lenovo', 'Lenovo L38041', '2', 'LENOVO L38041']
+['Huawei', 'EVR-AL00', '2', 'EVR-AL00']
+['Huawei', 'BAH-AL00', '2', 'BAH-AL00']
+['Meizu', 'M1852', '2', 'M1852']
+['Huawei', 'POT-AL00a', '2', 'POT-AL00A']
+['Samsung', 'SM-G9750', '2', 'SM-G9750']
+['Meizu', 'M1822', '2', 'M1822']
+['Xiaomi', 'MI 8 Lite', '2', 'MI 8 LITE']
+['OPPO', 'PBBT30', '2', 'PBBT30']
+['Meizu', '16th Plus', '2', '16TH PLUS']
+['Vivo', 'V1814A', '2', 'V1814A']
+['Huawei', 'HMA-TL00', '2', 'HMA-TL00']
+['Xiaomi', 'MI PAD 4 PLUS', '2', 'MI PAD 4 PLUS']
+['Meizu', 'Note9', '2', 'NOTE9']
+['OPPO', 'PCAT10', '2', 'PCAT10']
+['Huawei', 'BAH2-AL10', '2', 'BAH2-AL10']
+['Huawei', 'LIO-AL00', '2', 'LIO-AL00']
+['OPPO', 'PCCM00', '2', 'PCCM00']
+['Meizu', '16th', '2', '16TH']
+['Vivo', 'V1824BA', '2', 'V1824BA']
+['Samsung', 'SM-G6200', '2', 'SM-G6200']
+['Vivo', 'V1731CA', '2', 'V1731CA']
+['Vivo', 'V1814T', '2', 'V1814T']
+['Xiaomi', 'MI 9 Transparent Edition', '2', 'MI 9 TRANSPARENT EDITION']
+['Huawei', 'BKL-TL10', '2', 'BKL-TL10']
+['OPPO', 'PBCT10', '2', 'PBCT10']
+['Vivo', 'V1813BT', '2', 'V1813BT']
+['Vivo', 'V1813BA', '2', 'V1813BA']
+['Huawei', 'ARS-AL00', '2', 'ARS-AL00']
+['Xiaomi', 'MI PLAY', '2', 'MI PLAY']
+['Redmi', 'Redmi Note 8 Pro', '2', 'REDMI NOTE 8 PRO']
+['Huawei', 'LYA-AL10', '2', 'LYA-AL10']
+['Xiaomi', 'Redmi 6 Pro', '2', 'REDMI 6 PRO']
+['Huawei', 'BKK-AL10', '2', 'BKK-AL10']
+['Vivo', 'vivo Z3x', '2', 'VIVO Z3X']
+['Huawei', 'MRD-AL00', '2', 'MRD-AL00']
+['blackshark', 'SKR-A0', '2', 'SKR-A0']
+['Huawei', 'JKM-AL00', '2', 'JKM-AL00']
+['blackshark', 'AWM-A0', '2', 'AWM-A0']
+['Huawei', 'JKM-AL00a', '2', 'JKM-AL00A']
+['Huawei', 'LYA-AL00P', '2', 'LYA-AL00P']
+['Huawei', 'HRY-AL00', '2', 'HRY-AL00']
+['Meizu', '16s', '2', '16S']
+['Huawei', 'BKK-AL00', '2', 'BKK-AL00']
+['Huawei', 'DUA-AL00', '2', 'DUA-AL00']
+['Samsung', 'SM-A6060', '2', 'SM-A6060']
+['Vivo', 'V1730EA', '2', 'V1730EA']
+['Realme', 'RMX1901', '2', 'RMX1901']
+['Huawei', 'LLD-AL30', '2', 'LLD-AL30']
+['OPPO', 'PBDM00', '2', 'PBDM00']
+['Vivo', 'V1816T', '2', 'V1816T']
+['Huawei', 'DUB-AL00a', '2', 'DUB-AL00A']
+['Huawei', 'BKK-TL00', '2', 'BKK-TL00']
+['Vivo', 'V1916A', '2', 'V1916A']
+['Vivo', 'V1913T', '2', 'V1913T']
+['Samsung', 'SM-G9650', '2', 'SM-G9650']
+['Nokia', 'X5', '2', 'NOKIA X5']
+['Xiaomi', 'MIX 3', '2', 'MIX 3']
+['Xiaomi', 'MI PAD 4', '2', 'MI PAD 4']
+['ONEPLUS', 'A6010', '2', 'ONEPLUS A6010']
+['OPPO', 'PCAT00', '2', 'PCAT00']
+['Vivo', 'vivo Z1', '2', 'VIVO Z1']
+['Xiaomi', 'Redmi 7', '2', 'REDMI 7']
+['Vivo', 'V1901T', '2', 'V1901T']
+['blackshark', 'SKW-A0', '2', 'SKW-A0']
+['Huawei', 'AGS2-W09', '2', 'AGS2-W09']
+['Vivo', 'V1824A', '2', 'V1824A']
+['Huawei', 'AUM-TL20', '2', 'AUM-TL20']
+['Samsung', 'SM-G9730', '2', 'SM-G9730']
+['Vivo', 'V1832A', '2', 'V1832A']
+['Huawei', 'ELE-TL00', '2', 'ELE-TL00']

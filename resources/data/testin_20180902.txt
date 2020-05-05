@@ -1,0 +1,466 @@
+一加 1^品牌：一加^型号：A0001^系统：Android 4.3^分辨率：1080*1920
+一加 2^品牌：一加^型号：ONE A2001^系统：Android 5.1.1^分辨率：1080*1920
+一加 3T^品牌：一加^型号：ONEPLUS A3010^系统：Android 7.1.1^分辨率：1080*1920
+一加 3T^品牌：一加^型号：ONEPLUS A3010^系统：Android 8.0.0^分辨率：1080*1920
+一加 5T（6GB RAM/全网通）^品牌：一加^型号：ONEPLUS A5010^系统：Android 8.0.0^分辨率：1080*2160
+一加 5T（6GB RAM/全网通）^品牌：一加^型号：ONEPLUS A5010^系统：Android 8.1.0^分辨率：1080*2160
+一加 5^品牌：一加^型号：ONEPLUS A5000^系统：Android 7.1.1^分辨率：1080*1920
+一加 5^品牌：一加^型号：ONEPLUS A5000^系统：Android 8.0.0^分辨率：1080*1920
+一加 6^品牌：一加^型号：ONEPLUS A6000^系统：Android 8.1.0^分辨率：2280*1080
+三星Galaxy A8^品牌：三星^型号：SM-A8000^系统：Android 6.0.1^分辨率：1080*1920
+三星Galaxy S8+^品牌：三星^型号：SM-G955F^系统：Android 8.0.0^分辨率：1080*2220
+小米 1^品牌：小米^型号：MI-ONE Plus^系统：Android 4.1.2^分辨率：480*854
+小米 2^品牌：小米^型号：MI 2^系统：Android 5.0.2^分辨率：720*1280
+小米 3 联通版^品牌：小米^型号：MI 3W^系统：Android 6.0.1^分辨率：1080*1920
+小米 3^品牌：小米^型号：MI 3^系统：Android 4.4.4^分辨率：1080*1920
+小米 4S^品牌：小米^型号：MI 4S^系统：Android 5.1.1^分辨率：1080*1920
+小米 5S plus^品牌：小米^型号：MI 5s Plus^系统：Android 7.0^分辨率：1080*1920
+小米 5X^品牌：小米^型号：MI 5X^系统：Android 7.1.2^分辨率：1080*1920
+小米 5s（标准版/全网通）^品牌：小米^型号：MI 5s^系统：Android 7.0^分辨率：1080*1920
+小米 6X^品牌：小米^型号：MI 6X^系统：Android 8.1.0^分辨率：1080*2160
+小米 6^品牌：小米^型号：MI 6^系统：Android 7.1.1^分辨率：1080*1920
+小米 6^品牌：小米^型号：MI 6^系统：Android 8.0.0^分辨率：1080*1920
+小米 8^品牌：小米^型号：MI 8^系统：Android 8.1.0^分辨率：2248*1080
+小米 MIX 2^品牌：小米^型号：MIX 2^系统：Android 8.0.0^分辨率：1080*2160
+小米 MIX^品牌：小米^型号：MIX^系统：Android 7.0^分辨率：1080*2040
+小米 Max（全网通/3GB RAM）^品牌：小米^型号：MI MAX^系统：Android 6.0.1^分辨率：1080*1920
+小米 Max（全网通/3GB RAM）^品牌：小米^型号：MI MAX^系统：Android 7.0^分辨率：1080*1920
+小米 Note 3^品牌：小米^型号：Mi Note 3^系统：Android 7.1.1^分辨率：1080*1920
+小米 Note2^品牌：小米^型号：Mi Note 2^系统：Android 7.0^分辨率：1080*1920
+小米 Note^品牌：小米^型号：MI NOTE LTE^系统：Android 4.4.4^分辨率：1920*1080
+小米 max 2^品牌：小米^型号：MI MAX 2^系统：Android 7.1.1^分辨率：1080*1920
+小米 红米 2A^品牌：小米^型号：HM 2A^系统：Android 4.4.4^分辨率：720*1280
+小米 红米2电信版^品牌：小米^型号：2014812^系统：Android 4.4.4^分辨率：720*1280
+小米 红米Note3^品牌：小米^型号：Redmi Note 3^系统：Android 5.1.1^分辨率：1080*1920
+小米 红米Note3^品牌：小米^型号：Redmi Note 3^系统：Android 6.0.1^分辨率：1080*1920
+小米 红米pro^品牌：小米^型号：Redmi Pro^系统：Android 6.0^分辨率：1080*1920
+小米8 SE^品牌：小米^型号：MI 8 SE^系统：Android 8.1.0^分辨率：1080*2244
+小米MIX 2S^品牌：小米^型号：MIX 2S^系统：Android 8.0.0^分辨率：1080*2160
+索尼 L39h^品牌：索尼^型号：C6903^系统：Android 4.2.2^分辨率：1080*1920
+索尼 Xperia X^品牌：索尼^型号：F5121^系统：Android 8.0.0^分辨率：1920*1080
+索尼 Xperia X^品牌：索尼^型号：L35h^系统：Android 4.2.2^分辨率：1080*1920
+锤子 M1L^品牌：锤子^型号：SM919^系统：Android 6.0.1^分辨率：2560*1440
+中兴 A602^品牌：中兴^型号：ZTE BA602^系统：Android 6.0^分辨率：720*1280
+中兴 Blade A510^品牌：中兴^型号：ZTE BA510^系统：Android 5.1^分辨率：720*1280
+中兴 Blade V8^品牌：中兴^型号：ZTE BV0800^系统：Android 7.0^分辨率：1080*1920
+中兴 C2016^品牌：中兴^型号：ZTE C2016^系统：Android 5.1.1^分辨率：1080*1920
+中兴 U960e^品牌：中兴^型号：ZTE U960E^系统：Android 4.0.4^分辨率：720*1280
+中兴 X9180^品牌：中兴^型号：X9180^系统：Android 4.4.2^分辨率：720*1280
+中兴 天机Axon M^品牌：中兴^型号：Z999^系统：Android 7.1.2^分辨率：1080*1920
+中兴 小鲜5（3GB RAM/全网通）^品牌：中兴^型号：ZTE V0840^系统：Android 7.1.1^分辨率：720*1280
+中国移动 A1s^品牌：中国移动^型号：M631^系统：Android 5.1.1^分辨率：720*1280
+中国移动 A2^品牌：中国移动^型号：M636^系统：Android 5.1.1^分辨率：720*1280
+中国移动 N1 Max^品牌：中国移动^型号：M823^系统：Android 5.0.2^分辨率：1080*1920
+360 手机N5S^品牌：奇酷^型号：1607-A01^系统：Android 7.1.1^分辨率：1080*1920
+360 手机N7（全网通）^品牌：奇酷^型号：1713-A01^系统：Android 7.1.1^分辨率：1080*1920
+Acer Iconia Tab 8^品牌：宏基^型号：A1-840FHD^系统：Android 4.4.2^分辨率：1200*1920
+魅族 15 Plus（全网通）^品牌：魅族^型号：15 Plus^系统：Android 7.0^分辨率：2560*1440
+魅族 MX 3^品牌：魅族^型号：M351^系统：Android 4.2.1^分辨率：1080*1800
+魅族 MX 4^品牌：魅族^型号：MX4^系统：Android 5.1^分辨率：1152*1920
+魅族 MX 5^品牌：魅族^型号：MX5^系统：Android 5.0.1^分辨率：1080*1920
+魅族 MX 5^品牌：魅族^型号：MX5^系统：Android 5.1^分辨率：1080*1920
+魅族 MX 6^品牌：魅族^型号：MX6^系统：Android 7.1.1^分辨率：1080*1920
+魅族 PRO 5^品牌：魅族^型号：PRO 5^系统：Android 5.1^分辨率：1080*1920
+魅族 PRO 6 Plus^品牌：魅族^型号：PRO 6 Plus^系统：Android 6.0.1^分辨率：2560*1440
+魅族 PRO 6 Plus^品牌：魅族^型号：PRO 6 Plus^系统：Android 7.0.0^分辨率：2560*1440
+魅族 PRO 6全网通^品牌：魅族^型号：PRO 6^系统：Android 7.1.1^分辨率：1080*1920
+魅族 PRO 7^品牌：魅族^型号：PRO 7-S^系统：Android 7.0^分辨率：1080*1920
+魅族 魅蓝 2^品牌：魅族^型号：M578C^系统：Android 5.1^分辨率：720*1280
+魅蓝 2^品牌：魅族^型号：m2^系统：Android 5.1^分辨率：720*1280
+魅蓝 3^品牌：魅族^型号：m3^系统：Android 5.1^分辨率：720*1280
+魅蓝 5S^品牌：魅族^型号：M5s^系统：Android 6.0^分辨率：720*1280
+魅蓝 A5^品牌：魅族^型号：M A5^系统：Android 6.0^分辨率：720*1280
+魅蓝 E2^品牌：魅族^型号：M2 E^系统：Android 6.0.1^分辨率：1080*1920
+魅蓝 E3^品牌：魅族^型号：MEIZU E3^系统：Android 7.1.1^分辨率：1080*2160
+魅蓝 E^品牌：魅族^型号：M1 E^系统：Android 6.0^分辨率：1080*1920
+魅蓝 Max^品牌：魅族^型号：M3 Max^系统：Android 6.0^分辨率：1080*1920
+魅蓝 Note 2^品牌：魅族^型号：M571C^系统：Android 5.1^分辨率：1080*1920
+魅蓝 Note 2^品牌：魅族^型号：m2 note^系统：Android 5.1^分辨率：1080*1920
+魅蓝 Note 3^品牌：魅族^型号：m3 note^系统：Android 5.1^分辨率：1080*1920
+魅蓝 Note 5^品牌：魅族^型号：M5 Note^系统：Android 6.0^分辨率：1080*1920
+魅蓝 Note 6^品牌：魅族^型号：M6 Note^系统：Android 7.1.2^分辨率：1080*1920
+魅蓝 Note 6^品牌：魅族^型号：M6^系统：Android 7.0^分辨率：1080*1920
+魅蓝 Note^品牌：魅族^型号：M463C^系统：Android 4.4.4^分辨率：1080*1920
+魅蓝 S6（3GB RAM/全网通）^品牌：魅族^型号：Meizu S6^系统：Android 7.0^分辨率：720*1440
+魅蓝 U20^品牌：魅族^型号：U20^系统：Android 6.0^分辨率：1080*1920
+魅蓝 移动4G^品牌：魅族^型号：m1^系统：Android 4.4.4^分辨率：768*1280
+GALAXY Core 4G^品牌：三星^型号：SM-G3518^系统：Android 4.3^分辨率：800*480
+GALAXY Note 8^品牌：三星^型号：SM-N9500^系统：Android 7.1.1^分辨率：1080*2220
+GALAXY S9（全网通）^品牌：三星^型号：SM-G9600^系统：Android 8.0.0^分辨率：1080*2220
+GN3003^品牌：金立^型号：GN3003^系统：Android 5.1^分辨率：720*1280
+Galaxy A7^品牌：三星^型号：SM-A7000^系统：Android 6.0.1^分辨率：1920*1080
+Galaxy A9^品牌：三星^型号：SM-A9000^系统：Android 6.0.1^分辨率：1080*1920
+Galaxy C7 Pro^品牌：三星^型号：SM-C7010^系统：Android 7.0^分辨率：1080*1920
+Galaxy C9 全网通^品牌：三星^型号：SM-C9000^系统：Android 6.0.1^分辨率：1080*1920
+Galaxy C9 全网通^品牌：三星^型号：SM-C9000^系统：Android 7.1.1^分辨率：1080*1920
+Galaxy Core Max^品牌：三星^型号：SM-G5109^系统：Android 4.4.4^分辨率：960*540
+Galaxy E7^品牌：三星^型号：SM-E7000^系统：Android 4.4.4^分辨率：720*1280
+Galaxy Grand 2^品牌：三星^型号：SM-G7108V^系统：Android 4.3^分辨率：720*1280
+Galaxy Grand 2^品牌：三星^型号：SM-G7108^系统：Android 4.3^分辨率：720*1280
+Galaxy Grand 2（联通版）^品牌：三星^型号：SM-G7106^系统：Android 4.3^分辨率：720*1280
+Galaxy Grand Prime^品牌：三星^型号：SM-G5308W^系统：Android 4.4.4^分辨率：960*540
+Galaxy J3 Pro^品牌：三星^型号：SM-J3110^系统：Android 5.1.1^分辨率：720*1280
+Galaxy J3^品牌：三星^型号：SM-J3109^系统：Android 5.1.1^分辨率：720*1280
+Galaxy J3^品牌：三星^型号：SM-J3300^系统：Android 7.1.1^分辨率：720*1280
+Galaxy J5^品牌：三星^型号：SM-J5108^系统：Android 6.0.1^分辨率：720*1280
+Galaxy J7^品牌：三星^型号：SM-J7108^系统：Android 6.0.1^分辨率：1080*1920
+Galaxy Mega 5.8^品牌：三星^型号：GT-I9152^系统：Android 4.2.2^分辨率：960*540
+Galaxy Note 3^品牌：三星^型号：SM-N9009^系统：Android 5.0^分辨率：1080*1920
+Galaxy Note 3^品牌：三星^型号：SM-N900^系统：Android 4.4.2^分辨率：1080*1920
+Galaxy Note 3^品牌：三星^型号：SM-N900^系统：Android 5.0^分辨率：1080*1920
+Galaxy Note 3（联通3G）^品牌：三星^型号：SM-N9006^系统：Android 5.0^分辨率：1080*1920
+Galaxy Note II^品牌：三星^型号：GT-N7100^系统：Android 4.3^分辨率：720*1280
+Galaxy Note II（16GB/移动版）^品牌：三星^型号：GT-N7108^系统：Android 4.3^分辨率：720*1280
+Galaxy Note II（电信版）^品牌：三星^型号：SCH-N719^系统：Android 4.1.2^分辨率：720*1280
+Galaxy Note II（联通版）^品牌：三星^型号：GT-N7102^系统：Android 4.3^分辨率：720*1280
+Galaxy Note3^品牌：三星^型号：SM-N9008^系统：Android 5.0^分辨率：1080*1920
+Galaxy On5（2016）青春版^品牌：三星^型号：SM-G5510^系统：Android 7.1.1^分辨率：720*1280
+Galaxy On7（全网通）^品牌：三星^型号：SM-G6100^系统：Android 6.0.1^分辨率：1920*1080
+Galaxy Premier^品牌：三星^型号：GT-I9268^系统：Android 4.1.2^分辨率：720*1280
+Galaxy S4^品牌：三星^型号：GT-I9500^系统：Android 5.0.1^分辨率：1080*1920
+Galaxy S4（电信3G）^品牌：三星^型号：SCH-I959^系统：Android 5.0.1^分辨率：1080*1920
+Galaxy S5^品牌：三星^型号：SM-G9006V^系统：Android 6.0.1^分辨率：1080*1920
+Galaxy S5^品牌：三星^型号：SM-G9008W^系统：Android 6.0.1^分辨率：1080*1920
+Galaxy S6 Edge^品牌：三星^型号：SM-G9250^系统：Android 6.0.1^分辨率：2560*1440
+Galaxy S6 Edge^品牌：三星^型号：SM-G9250^系统：Android 7.0^分辨率：2560*1440
+Galaxy S6^品牌：三星^型号：SM-G9200^系统：Android 7.0^分辨率：2560*1440
+Galaxy S7 Edge^品牌：三星^型号：SM-G9350^系统：Android 7.0^分辨率：2560*1440
+Galaxy S7^品牌：三星^型号：SM-G9300^系统：Android 6.0.1^分辨率：2560*1440
+Galaxy S8+^品牌：三星^型号：SM-G9550^系统：Android 7.0^分辨率：1440*2960
+Galaxy S8^品牌：三星^型号：SM-G9500^系统：Android 8.0.0^分辨率：1440*2960
+Galaxy SIII^品牌：三星^型号：SCH-I939D^系统：Android 4.3^分辨率：720*1280
+Galaxy Tab 4^品牌：三星^型号：SM-T530^系统：Android 4.4.2^分辨率：800*1280
+Galaxy Trend 3^品牌：三星^型号：SM-G3502I^系统：Android 4.3^分辨率：800*480
+Galaxy Trend 3^品牌：三星^型号：SM-G3509I^系统：Android 4.3^分辨率：800*480
+Galaxy Win Pro DUOS^品牌：三星^型号：SM-G3812^系统：Android 4.2.2^分辨率：960*540
+奇酷 F4^品牌：奇酷^型号：1501_M02^系统：Android 5.1^分辨率：720*1280
+奇酷 N4S^品牌：奇酷^型号：1505-A01^系统：Android 6.0^分辨率：1080*1920
+奇酷 大神Note3^品牌：奇酷^型号：8676-A01^系统：Android 5.1^分辨率：1280*720
+HTC Desire 610t^品牌：HTC^型号：HTC D610t^系统：Android 4.4.2^分辨率：480*854
+HTC Desire 816^品牌：HTC^型号：HTC D816t^系统：Android 4.4.2^分辨率：1080*1920
+HTC Desire^品牌：HTC^型号：HTC D826d^系统：Android 5.0.2^分辨率：1920*1080
+HTC Ocean Note^品牌：HTC^型号：HTC U Ultra^系统：Android 7.0^分辨率：1440*2720
+HTC One^品牌：HTC^型号：HTC 802d^系统：Android 4.1.2^分辨率：1080*1920
+HTC U11+（全网通）^品牌：HTC^型号：HTC 2Q4R400^系统：Android 7.1.2^分辨率：1440*2880
+HTC U12+^品牌：HTC^型号：HTC 2Q55300^系统：Android 8.0.0^分辨率：1440*2880
+IUNI N1（双4G）^品牌：IUNI^型号：IUNI N1^系统：Android 5.1^分辨率：720*1280
+K5 Play^品牌：联想^型号：Lenovo L38011^系统：Android 8.0.0^分辨率：720*1440
+LG Q6 Plus^品牌：LG^型号：LG-M700^系统：Android 7.1.1^分辨率：1080*2160
+华为 Ascend G710^品牌：华为^型号：HUAWEI A199^系统：Android 4.1.2^分辨率：720*1280
+华为 Ascend G7^品牌：华为^型号：HUAWEI G7-UL20^系统：Android 4.4.4^分辨率：720*1280
+华为 Ascend P6^品牌：华为^型号：HUAWEI P6-C00^系统：Android 4.4.2^分辨率：720*1280
+华为 Ascend P6^品牌：华为^型号：HUAWEI P6-T00^系统：Android 4.4.2^分辨率：720*1184
+华为 Ascend P7^品牌：华为^型号：HUAWEI P7-L07^系统：Android 4.4.2^分辨率：1080*1920
+华为 Ascend P7^品牌：华为^型号：HUAWEI P7-L07^系统：Android 5.1.1^分辨率：1080*1920
+华为 C199^品牌：华为^型号：HUAWEI C199^系统：Android 4.4.2^分辨率：720*1280
+华为 C8815^品牌：华为^型号：HUAWEI C8815^系统：Android 4.1.2^分辨率：960*540
+华为 C8818^品牌：华为^型号：HUAWEI C8818^系统：Android 4.4.4^分辨率：720*1280
+华为 畅享 5S^品牌：华为^型号：HUAWEI TAG-AL00^系统：Android 5.1^分辨率：720*1280
+华为 畅享 5^品牌：华为^型号：HUAWEI TIT-AL00^系统：Android 5.1^分辨率：720*1280
+华为 畅享 7 Plus^品牌：华为^型号：TRT-AL00^系统：Android 7.0^分辨率：720*1280
+华为 畅享8^品牌：华为^型号：LDN-AL00^系统：Android 8.0.0^分辨率：1440*720
+华为 G620^品牌：华为^型号：G620-L75^系统：Android 4.3^分辨率：960*540
+华为 G7 Plus^品牌：华为^型号：HUAWEI RIO-UL00^系统：Android 6.0.1^分辨率：1080*1920
+华为 G700T (移动版)^品牌：华为^型号：HUAWEI G700-T00^系统：Android 4.2.1^分辨率：1080*1920
+华为 G9^品牌：华为^型号：HUAWEI VNS-AL00^系统：Android 6.0^分辨率：1080*1920
+华为 Mate 10 Pro (全网通)^品牌：华为^型号：BLA-AL00^系统：Android 8.0.0^分辨率：1080*2160
+华为 Mate 10^品牌：华为^型号：ALP-AL00^系统：Android 8.0.0^分辨率：2560*1440
+华为 Mate 2 移动定制版^品牌：华为^型号：HUAWEI MT2-L01^系统：Android 4.2.2^分辨率：720*1280
+华为 Mate 2^品牌：华为^型号：HUAWEI MT2-L05^系统：Android 4.2.2^分辨率：720*1280
+华为 Mate 7^品牌：华为^型号：HUAWEI MT7-CL00^系统：Android 4.4.2^分辨率：1080*1920
+华为 Mate 8^品牌：华为^型号：HUAWEI NXT-AL10^系统：Android 7.0^分辨率：1080*1920
+华为 Mate 8^品牌：华为^型号：HUAWEI NXT-DL00^系统：Android 8.0.0^分辨率：1080*1920
+华为 Mate 9 Pro^品牌：华为^型号：LON-AL00^系统：Android 8.0.0^分辨率：2560*1440
+华为 Mate 9^品牌：华为^型号：MHA-AL00^系统：Android 8.0.0^分辨率：1080*1920
+华为 Mate S^品牌：华为^型号：HUAWEI CRR-UL00^系统：Android 5.1.1^分辨率：1080*1920
+华为 Mate9 移动定制版^品牌：华为^型号：MHA-TL00^系统：Android 8.0.0^分辨率：1920*1080
+华为 P10 Plus^品牌：华为^型号：VKY-AL00^系统：Android 8.0.0^分辨率：2560*1440
+华为 P10^品牌：华为^型号：VTR-AL00^系统：Android 8.0.0^分辨率：1920*1080
+华为 P20 Pro(全网通)^品牌：华为^型号：CLT-AL01^系统：Android 8.1.0^分辨率：2240*1080
+华为 P20^品牌：华为^型号：EML-AL00^系统：Android 8.1.0^分辨率：1080*2244
+华为 P8 Lite 青春版^品牌：华为^型号：HUAWEI ALE-CL00^系统：Android 4.4.4^分辨率：720*1184
+华为 P8 Max^品牌：华为^型号：HUAWEI P8max^系统：Android 6.0^分辨率：1080*1920
+华为 P8^品牌：华为^型号：HUAWEI GRA-UL00^系统：Android 5.0.1^分辨率：1920*1080
+华为 P8^品牌：华为^型号：HUAWEI GRA-UL00^系统：Android 6.0^分辨率：1920*1080
+华为 P8^品牌：华为^型号：HUAWEI GRA-UL10^系统：Android 6.0^分辨率：1080*1794
+华为 P9 (全网通高配)^品牌：华为^型号：EVA-AL10^系统：Android 7.0^分辨率：1080*1812
+华为 P9 Plus^品牌：华为^型号：VIE-AL10^系统：Android 7.0^分辨率：1920*1080
+华为 Y635-TL00^品牌：华为^型号：HUAWEI Y635-TL00^系统：Android 4.4.4^分辨率：480*854
+华为 荣耀 4A^品牌：华为^型号：SCL-AL00^系统：Android 5.1.1^分辨率：720*1184
+华为 荣耀 4A^品牌：华为^型号：SCL-CL00^系统：Android 5.1.1^分辨率：720*1280
+华为 荣耀 4A^品牌：华为^型号：SCL-TL00H^系统：Android 5.1.1^分辨率：720*1280
+华为 荣耀 4A^品牌：华为^型号：SCL-TL00^系统：Android 5.1.1^分辨率：720*1280
+华为 荣耀 4C^品牌：华为^型号：CHM-TL00^系统：Android 4.4.2^分辨率：720*1280
+华为 荣耀 5X^品牌：华为^型号：KIW-TL00H^系统：Android 5.1.1^分辨率：1080*1920
+华为 荣耀 6^品牌：华为^型号：H60-L01^系统：Android 5.1.1^分辨率：1080*1920
+华为 荣耀 7i^品牌：华为^型号：ATH-TL00H^系统：Android 5.1.1^分辨率：1080*1920
+华为 荣耀3C^品牌：华为^型号：H30-T10^系统：Android 4.2.2^分辨率：720*1280
+华为 荣耀3X Pro^品牌：华为^型号：HUAWEI G750-T20^系统：Android 4.2.2^分辨率：1080*1920
+华为 荣耀6 Plus^品牌：华为^型号：PE-CL00^系统：Android 4.4.2^分辨率：1080*1776
+华为 荣耀6 plus^品牌：华为^型号：PE-TL10^系统：Android 4.4.2^分辨率：1920*1080
+华为 荣耀V8^品牌：华为^型号：KNT-AL20^系统：Android 7.0^分辨率：1440*2560
+华为 荣耀X2^品牌：华为^型号：GEM-703L^系统：Android 6.0^分辨率：1920*1200
+华为 荣耀畅玩 4C^品牌：华为^型号：CHM-TL00H^系统：Android 4.4.2^分辨率：1280*720
+华为 荣耀畅玩 4^品牌：华为^型号：G621-TL00^系统：Android 4.4.4^分辨率：720*1280
+华为 荣耀畅玩5X^品牌：华为^型号：KIW-TL00^系统：Android 6.0.1^分辨率：1080*1920
+华为 nova 2 Plus^品牌：华为^型号：BAC-AL00^系统：Android 8.0.0^分辨率：1080*1920
+华为 nova 青春版^品牌：华为^型号：WAS-AL00^系统：Android 8.0.0^分辨率：1080*1920
+华为 nova^品牌：华为^型号：HUAWEI CAZ-AL10^系统：Android 7.0^分辨率：1080*1920
+华为 麦芒 6^品牌：华为^型号：RNE-AL00^系统：Android 7.0^分辨率：2160*1080
+华为C8813D^品牌：华为^型号：HUAWEI C8813D^系统：Android 4.1.1^分辨率：480*854
+华为畅享 6S^品牌：华为^型号：DIG-AL00^系统：Android 6.0^分辨率：720*1280
+华为畅享 7 (全网通)^品牌：华为^型号：SLA-AL00^系统：Android 7.0^分辨率：720*1280
+华为畅享6（全网通）^品牌：华为^型号：NCE-AL00^系统：Android 6.0^分辨率：720*1280
+华为畅享6（移动定制/全网通）^品牌：华为^型号：NCE-AL10^系统：Android 6.0^分辨率：720*1280
+华为畅享7S^品牌：华为^型号：FIG-TL10^系统：Android 8.0.0^分辨率：1080*2160
+华为畅享8 Plus^品牌：华为^型号：FLA-AL20^系统：Android 8.0.0^分辨率：2160*1080
+华为畅享8e（全网通）^品牌：华为^型号：ATU-AL10^系统：Android 8.0.0^分辨率：720*1440
+华为Mate 7（MT7-TL10/标准版/双4G）^品牌：华为^型号：HUAWEI MT7-TL00^系统：Android 6.0^分辨率：1080*1920
+华为P10青春版（全网通）^品牌：华为^型号：WAS-TL10^系统：Android 8.0.0^分辨率：1080*1920
+华为P9（标准版/电信4G）^品牌：华为^型号：EVA-CL00^系统：Android 7.0^分辨率：1080*1920
+华为P9（标准版/移动4G）^品牌：华为^型号：EVA-TL00^系统：Android 7.0^分辨率：720*1208
+华为荣耀 10^品牌：华为^型号：COL-AL10^系统：Android 8.1.0^分辨率：2280*1080
+华为荣耀 6 (移动版）^品牌：华为^型号：H60-L11^系统：Android 4.4.2^分辨率：720*1280
+华为荣耀 6 Plus^品牌：华为^型号：PE-TL00M^系统：Android 4.4.2^分辨率：1080*1920
+华为荣耀 6^品牌：华为^型号：H60-L02^系统：Android 4.4.2^分辨率：1080*1920
+华为荣耀 6^品牌：华为^型号：H60-L03^系统：Android 4.4.2^分辨率：1080*1776
+华为荣耀 8 双4G^品牌：华为^型号：FRD-DL00^系统：Android 7.0^分辨率：1920*1080
+华为荣耀 8^品牌：华为^型号：FRD-AL10^系统：Android 7.0^分辨率：1080*1920
+华为荣耀 V9^品牌：华为^型号：DUK-AL20^系统：Android 8.0.0^分辨率：2560*1440
+华为nova 2s^品牌：华为^型号：HWI-AL00^系统：Android 8.0.0^分辨率：1080*2160
+华为nova 3e^品牌：华为^型号：ANE-TL00^系统：Android 8.0.0^分辨率：2280*1080
+华为p20^品牌：华为^型号：EML-L29^系统：Android 8.1.0^分辨率：1080*2244
+华为麦芒 4^品牌：华为^型号：HUAWEI RIO-AL00^系统：Android 6.0.1^分辨率：1080*1920
+华硕 Fonepad^品牌：华硕^型号：ME371MG^系统：Android 4.1.2^分辨率：800*1280
+华硕 X002^品牌：华硕^型号：ASUS_X005^系统：Android 5.1^分辨率：1080*1920
+Nexus 5X^品牌：谷歌^型号：Nexus 5X^系统：Android 6.0.1^分辨率：1080*1920
+Nexus 5X^品牌：谷歌^型号：Nexus 5X^系统：Android 8.0.0^分辨率：1080*1920
+Nexus 5X^品牌：谷歌^型号：Nexus 5X^系统：Android 8.1.0^分辨率：1080*1920
+Nexus 6P^品牌：谷歌^型号：Nexus 6P^系统：Android 6.0^分辨率：2560*1440
+Nexus 6P^品牌：谷歌^型号：Nexus 6P^系统：Android 8.1.0^分辨率：2560*1440
+OPPO 3007^品牌：OPPO^型号：3007^系统：Android 4.4.4^分辨率：720*1280
+OPPO A31^品牌：OPPO^型号：A31^系统：Android 4.4.4^分辨率：480*854
+OPPO A31c^品牌：OPPO^型号：A31c^系统：Android 4.4.4^分辨率：480*854
+OPPO A31t^品牌：OPPO^型号：A31t^系统：Android 4.4.4^分辨率：480*854
+OPPO A31u^品牌：OPPO^型号：A31u^系统：Android 4.4.4^分辨率：480*854
+OPPO A33^品牌：OPPO^型号：OPPO A33^系统：Android 5.1.1^分辨率：960*540
+OPPO A33m^品牌：OPPO^型号：OPPO A33m^系统：Android 5.1.1^分辨率：960*540
+OPPO A37m^品牌：OPPO^型号：OPPO A37m^系统：Android 5.1^分辨率：720*1280
+OPPO A51^品牌：OPPO^型号：A51^系统：Android 5.1.1^分辨率：720*1280
+OPPO A53m^品牌：OPPO^型号：OPPO A53m^系统：Android 5.1.1^分辨率：720*1280
+OPPO A57^品牌：OPPO^型号：OPPO A57^系统：Android 6.0.1^分辨率：720*1280
+OPPO A59s^品牌：OPPO^型号：OPPO A59s^系统：Android 5.1^分辨率：720*1280
+OPPO A73（全网通）^品牌：OPPO^型号：OPPO A73^系统：Android 7.1.1^分辨率：1080*2160
+OPPO A79（冰焰蓝版本）^品牌：OPPO^型号：OPPO A79k^系统：Android 7.1.1^分辨率：1080*2160
+OPPO A83 (全网通)^品牌：OPPO^型号：OPPO A83^系统：Android 7.1.1^分辨率：720*1440
+OPPO Find 7^品牌：OPPO^型号：X9077^系统：Android 5.0^分辨率：2560*1440
+OPPO Find X^品牌：OPPO^型号：PAFM00^系统：Android 8.1.0^分辨率：2340*1080
+OPPO Find7^品牌：OPPO^型号：X9007^系统：Android 4.3^分辨率：2560*1440
+OPPO N1 Mini^品牌：OPPO^型号：N5117^系统：Android 4.3^分辨率：720*1280
+OPPO N1T^品牌：OPPO^型号：N1T^系统：Android 4.2.2^分辨率：1080*1920
+OPPO N3^品牌：OPPO^型号：N5207^系统：Android 4.4.4^分辨率：1080*1920
+OPPO R11 Plus^品牌：OPPO^型号：OPPO R11 Plus^系统：Android 7.1.1^分辨率：1080*1920
+OPPO R11^品牌：OPPO^型号：OPPO R11^系统：Android 7.1.1^分辨率：1920*1080
+OPPO R11^品牌：OPPO^型号：OPPO R11^系统：Android 8.1.0^分辨率：1920*1080
+OPPO R11s Plus^品牌：OPPO^型号：OPPO R11s Plus^系统：Android 7.1.1^分辨率：1080*2160
+OPPO R11s^品牌：OPPO^型号：OPPO R11s^系统：Android 7.1.1^分辨率：1080*2160
+OPPO R11s^品牌：OPPO^型号：OPPO R11s^系统：Android 8.1.0^分辨率：1080*2160
+OPPO R1C^品牌：OPPO^型号：R8207^系统：Android 4.4.4^分辨率：720*1280
+OPPO R1S^品牌：OPPO^型号：R8007^系统：Android 4.3^分辨率：720*1280
+OPPO R3^品牌：OPPO^型号：R7005^系统：Android 4.4.2^分辨率：720*1280
+OPPO R5^品牌：OPPO^型号：R8107^系统：Android 4.4.4^分辨率：1920*1080
+OPPO R6007^品牌：OPPO^型号：R6007^系统：Android 4.3^分辨率：720*1280
+OPPO R7 Plus f^品牌：OPPO^型号：R7Plus^系统：Android 5.0^分辨率：1080*1920
+OPPO R7 Plus m^品牌：OPPO^型号：R7Plusm^系统：Android 5.1.1^分辨率：1080*1803
+OPPO R7^品牌：OPPO^型号：OPPO R7^系统：Android 4.4.4^分辨率：1080*1920
+OPPO R7^品牌：OPPO^型号：R7c^系统：Android 4.4.4^分辨率：1080*1920
+OPPO R7s Plus^品牌：OPPO^型号：OPPO R7sPlus^系统：Android 5.1.1^分辨率：1080*1800
+OPPO R7s^品牌：OPPO^型号：OPPO R7s^系统：Android 4.4.4^分辨率：1080*1803
+OPPO R7s^品牌：OPPO^型号：OPPO R7sm^系统：Android 5.1.1^分辨率：1080*1920
+OPPO R815T^品牌：OPPO^型号：R815T^系统：Android 4.2.1^分辨率：800*480
+OPPO R819T^品牌：OPPO^型号：R819T^系统：Android 4.2.1^分辨率：720*1280
+OPPO R827T^品牌：OPPO^型号：R827T^系统：Android 4.2.2^分辨率：960*540
+OPPO R833T^品牌：OPPO^型号：R833T^系统：Android 4.2.2^分辨率：800*480
+OPPO R8^品牌：OPPO^型号：R8205^系统：Android 4.4.4^分辨率：720*1280
+OPPO R9^品牌：OPPO^型号：OPPO R9 Plusm A^系统：Android 5.1.1^分辨率：1080*1920
+OPPO R9^品牌：OPPO^型号：OPPO R9tm^系统：Android 5.1^分辨率：1080*1920
+OPPO R9s Plus^品牌：OPPO^型号：OPPO R9s Plus^系统：Android 6.0.1^分辨率：1080*1920
+OPPO U3^品牌：OPPO^型号：6607^系统：Android 4.4.4^分辨率：1080*1920
+Pixel 2 XL^品牌：谷歌^型号：Pixel 2 XL^系统：Android 9.0 (Android P)^分辨率：1440*2880
+Pixel C^品牌：谷歌^型号：Pixel C^系统：Android 8.0.0^分辨率：1800*2560
+Pixel XL^品牌：谷歌^型号：Pixel XL^系统：Android 9.0 (Android P)^分辨率：2560*1440
+Pixel^品牌：谷歌^型号：Pixel^系统：Android 9.0 (Android P)^分辨率：1080*1920
+乐视 乐 1^品牌：乐视^型号：x600^系统：Android 5.0.2^分辨率：1080*1920
+乐视 乐 2^品牌：乐视^型号：Le X620^系统：Android 6.0^分辨率：1080*1920
+乐视 乐1 Pro^品牌：乐视^型号：X800^系统：Android 5.0.2^分辨率：2560*1440
+乐视 乐1S^品牌：乐视^型号：Letv X501^系统：Android 6.0^分辨率：1080*1920
+乐视 乐Max 2^品牌：乐视^型号：Le X820^系统：Android 6.0.1^分辨率：2560*1440
+乐视 乐Pro 3^品牌：乐视^型号：LEX720^系统：Android 6.0.1^分辨率：1080*1920
+乐视 乐S3^品牌：乐视^型号：LEX626^系统：Android 6.0^分辨率：1080*1920
+联想 A2580^品牌：联想^型号：Lenovo A2580^系统：Android 5.0.1^分辨率：480*854
+联想 A670t^品牌：联想^型号：Lenovo A670t^系统：Android 4.2.1^分辨率：480*854
+联想 A6800^品牌：联想^型号：Lenovo A6800^系统：Android 4.4.4^分辨率：720*1280
+联想 K320t^品牌：联想^型号：Lenovo K320t^系统：Android 7.0^分辨率：1440*720
+联想 K80M^品牌：联想^型号：Lenovo K80M^系统：Android 4.4.4^分辨率：1080*1920
+联想 S5^品牌：联想^型号：Lenovo K520^系统：Android 8.0.0^分辨率：2160*1080
+联想 S810t^品牌：联想^型号：Lenovo S810t^系统：Android 4.3^分辨率：720*1280
+联想 TAB S8-50F^品牌：联想^型号：Lenovo TAB S8-50F^系统：Android 4.4.2^分辨率：1200*1920
+联想 ZUK Z1 Z1221^品牌：联想^型号：ZUK Z1^系统：Android 5.1.1^分辨率：1080*1920
+联想 乐檬 X3^品牌：联想^型号：Lenovo X3c50^系统：Android 6.0.1^分辨率：1080*1920
+联想 乐檬K3 Note^品牌：联想^型号：Lenovo K50-T5^系统：Android 5.0^分辨率：1080*1920
+联想 乐檬K3 Note^品牌：联想^型号：Lenovo K50-t5^系统：Android 5.0^分辨率：1080*1920
+联想A320T^品牌：联想^型号：Lenovo A320t^系统：Android 4.4.2^分辨率：800*480
+联想YOGA 平板 2^品牌：联想^型号：YOGA Tablet 2-830F^系统：Android 4.4.2^分辨率：1200*1920
+联想Z5^品牌：联想^型号：Lenovo L78011^系统：Android 8.1.0^分辨率：1080*2246
+Venue 8 3830^品牌：戴尔^型号：Venue 8 3830^系统：Android 4.3^分辨率：800*1280
+Y75(移动定制版)^品牌：vivo^型号：vivo Y75^系统：Android 7.1.1^分辨率：1440*720
+Y85A（全网通）^品牌：vivo^型号：vivo Y85A^系统：Android 8.1.0^分辨率：2280*1080
+坚果 3^品牌：锤子^型号：OC105^系统：Android 7.1.2^分辨率：1080*2160
+坚果 Pro^品牌：锤子^型号：OD103^系统：Android 7.1.1^分辨率：1080*1920
+坚果 R1^品牌：锤子^型号：DE106^系统：Android 8.1.0^分辨率：1080*2242
+坚果 pro2^品牌：锤子^型号：OS105^系统：Android 7.1.1^分辨率：1080*2160
+荣耀 7^品牌：华为^型号：PLK-AL10^系统：Android 5.0.2^分辨率：1080*1920
+荣耀 7^品牌：华为^型号：PLK-AL10^系统：Android 6.0^分辨率：1080*1920
+荣耀 7i^品牌：华为^型号：ATH-AL00^系统：Android 5.1.1^分辨率：1080*1920
+荣耀 9 (全网通)^品牌：华为^型号：STF-AL00^系统：Android 8.0.0^分辨率：1080*1920
+荣耀 9i^品牌：华为^型号：LLD-AL20^系统：Android 8.0.0^分辨率：2280*1080
+荣耀 V10^品牌：华为^型号：BKL-AL00^系统：Android 8.0.0^分辨率：1080*2160
+荣耀 V8^品牌：华为^型号：KNT-AL10^系统：Android 7.0^分辨率：1080*1920
+荣耀6（H60-L01/移动4G）^品牌：华为^型号：HUAWEI H60-L01^系统：Android 4.4.2^分辨率：1080*1920
+荣耀8青春版（3GB RAM/全网通）^品牌：华为^型号：PRA-AL00^系统：Android 7.0^分辨率：1080*1920
+荣耀9青春版（4GB RAM/全网通）^品牌：华为^型号：LLD-AL10^系统：Android 8.0.0^分辨率：1080*2160
+荣耀9（6GB RAM/全网通）^品牌：华为^型号：STF-AL10^系统：Android 8.0.0^分辨率：1080*1920
+荣耀Note 8^品牌：华为^型号：EDI-AL10^系统：Android 6.0^分辨率：2560*1440
+荣耀V10（尊享版）^品牌：华为^型号：BKL-AL20^系统：Android 8.0.0^分辨率：2160*1080
+荣耀V9 Play^品牌：华为^型号：JMM-AL00^系统：Android 7.0^分辨率：720*1280
+荣耀畅玩 4X^品牌：华为^型号：Che2-TL00^系统：Android 4.4.2^分辨率：720*1280
+荣耀畅玩 5 (全网通)^品牌：华为^型号：CUN-AL00^系统：Android 5.1^分辨率：1280*720
+荣耀畅玩 5A^品牌：华为^型号：CAM-AL00^系统：Android 6.0^分辨率：720*1280
+荣耀畅玩 5X^品牌：华为^型号：KIW-AL10^系统：Android 5.1.1^分辨率：1080*1776
+荣耀畅玩 5X^品牌：华为^型号：KIW-AL10^系统：Android 6.0.1^分辨率：1080*1776
+荣耀畅玩 6A^品牌：华为^型号：DLI-AL10^系统：Android 7.0^分辨率：720*1280
+荣耀畅玩 6X^品牌：华为^型号：BLN-AL10^系统：Android 7.0^分辨率：1080*1920
+荣耀畅玩 6X^品牌：华为^型号：BLN-AL20^系统：Android 7.0^分辨率：1080*1920
+荣耀畅玩 6X^品牌：华为^型号：BLN-TL10^系统：Android 7.0^分辨率：1080*1920
+荣耀畅玩 7X^品牌：华为^型号：BND-AL10^系统：Android 7.0^分辨率：1080*2160
+荣耀畅玩6^品牌：华为^型号：MYA-AL10^系统：Android 6.0^分辨率：720*1280
+荣耀畅玩7C（3GB RAM/全网通）^品牌：华为^型号：LND-AL30^系统：Android 8.0.0^分辨率：720*1440
+iPad mini 2^品牌：Apple^型号：iPad4,4^系统：IOS 10.3.3^分辨率：2048*1536
+iPhone 4s^品牌：Apple^型号：iPhone4,1^系统：IOS 9.3.5^分辨率：960*640
+iPhone 5s^品牌：Apple^型号：iPhone6,2^系统：IOS 10.3.2^分辨率：640*1136
+iPhone 5s^品牌：Apple^型号：iPhone6,2^系统：IOS 10.3.3^分辨率：640*1136
+iPhone 6 Plus^品牌：Apple^型号：iPhone7,1^系统：IOS 10.2.1^分辨率：1242*2208
+iPhone 6s Plus^品牌：Apple^型号：iPhone8,2^系统：IOS 11.1.1^分辨率：1242*2208
+iPhone 6s Plus^品牌：Apple^型号：iPhone8,2^系统：IOS 11.2.5^分辨率：1242*2208
+iPhone 6s Plus^品牌：Apple^型号：iPhone8,2^系统：IOS 11.3^分辨率：1242*2208
+iPhone 6s^品牌：Apple^型号：iPhone8,1^系统：IOS 10.2.1^分辨率：750*1334
+iPhone 7 Plus^品牌：Apple^型号：iPhone9,2^系统：IOS 11.4.1^分辨率：1242*2208
+iPhone 7^品牌：Apple^型号：iPhone9,1^系统：IOS 11.0.1^分辨率：750*1334
+iPhone 8 Plus^品牌：Apple^型号：iPhone10,2^系统：IOS 11.4.1^分辨率：1242*2208
+iPhone 8^品牌：Apple^型号：iPhone10,1^系统：IOS 11.2^分辨率：750*1334
+iPhone X^品牌：Apple^型号：iPhone10,3^系统：IOS 11.4.1^分辨率：1125*2436
+iPhone X^品牌：Apple^型号：iPhone10,3^系统：IOS 11.4^分辨率：1125*2436
+iPhone X^品牌：Apple^型号：iPhone10,3^系统：IOS 12.0^分辨率：1125*2436
+摩托罗拉 XT1079^品牌：摩托罗拉^型号：XT1079^系统：Android 5.0.2^分辨率：720*1184
+摩托罗拉Moto G Titan（移动4G）^品牌：摩托罗拉^型号：Moto G (4)^系统：Android 7.0^分辨率：1080*1920
+vivo NEX^品牌：vivo^型号：vivo NEX A^系统：Android 8.1.0^分辨率：1080*2316
+vivo V3^品牌：vivo^型号：vivo V3M A^系统：Android 5.1^分辨率：720*1280
+vivo V3^品牌：vivo^型号：vivo V3^系统：Android 5.1.1^分辨率：720*1280
+vivo X20Plus（全网通）^品牌：vivo^型号：vivo X20Plus^系统：Android 7.1.1^分辨率：1080*2160
+vivo X20^品牌：vivo^型号：vivo X20A^系统：Android 7.1.1^分辨率：1080*2160
+vivo X20^品牌：vivo^型号：vivo X20A^系统：Android 8.1.0^分辨率：1080*2160
+vivo X21A^品牌：vivo^型号：vivo X21A^系统：Android 8.1.0^分辨率：2280*1080
+vivo X3L（移动4G）^品牌：vivo^型号：vivo X3L^系统：Android 4.3^分辨率：720*1280
+vivo X5 Pro L^品牌：vivo^型号：vivo X5Pro L^系统：Android 5.0^分辨率：1080*1920
+vivo X5Max+^品牌：vivo^型号：vivo X5Max+^系统：Android 4.4.4^分辨率：1080*1920
+vivo X5SL^品牌：vivo^型号：vivo X5S L^系统：Android 4.4.4^分辨率：720*1280
+vivo X5V^品牌：vivo^型号：vivo X5V^系统：Android 4.4.4^分辨率：1080*720
+vivo X6D^品牌：vivo^型号：vivo X6D^系统：Android 5.1^分辨率：1080*1920
+vivo X6L^品牌：vivo^型号：vivo X6L^系统：Android 5.1^分辨率：1080*1920
+vivo X6Plus D^品牌：vivo^型号：vivo X6Plus D^系统：Android 5.1^分辨率：1080*1920
+vivo X7 Plus^品牌：vivo^型号：vivo X7Plus^系统：Android 5.1.1^分辨率：1080*1920
+vivo X7^品牌：vivo^型号：vivo X7^系统：Android 5.1.1^分辨率：1080*1920
+vivo X9L^品牌：vivo^型号：vivo X9L^系统：Android 7.1.2^分辨率：1080*1920
+vivo X9Plus^品牌：vivo^型号：vivo X9Plus^系统：Android 7.1.2^分辨率：1080*1920
+vivo X9^品牌：vivo^型号：vivo X9^系统：Android 7.1.2^分辨率：1080*1920
+vivo X9i（全网通）^品牌：vivo^型号：vivo X9i^系统：Android 7.1.2^分辨率：1080*1920
+vivo X9s Plus^品牌：vivo^型号：vivo X9s Plus^系统：Android 7.1.2^分辨率：1080*1920
+vivo X9s^品牌：vivo^型号：vivo X9s^系统：Android 7.1.2^分辨率：1080*1920
+vivo Xplay3S^品牌：vivo^型号：vivo Xplay3S^系统：Android 4.3^分辨率：2560*1440
+vivo Xplay3S^品牌：vivo^型号：vivo Xplay3S^系统：Android 4.4.2^分辨率：2560*1440
+vivo Xplay5S^品牌：vivo^型号：vivo Xplay5S^系统：Android 6.0^分辨率：2560*1440
+vivo Xplay^品牌：vivo^型号：vivo X510t^系统：Android 4.2.2^分辨率：1080*1920
+vivo Y13T^品牌：vivo^型号：vivo Y13^系统：Android 4.2.2^分辨率：480*854
+vivo Y17T（移动3G）^品牌：vivo^型号：vivo Y17T^系统：Android 4.2.2^分辨率：720*1280
+vivo Y17W^品牌：vivo^型号：vivo Y17W^系统：Android 4.2.2^分辨率：720*1280
+vivo Y18L^品牌：vivo^型号：vivo Y18L^系统：Android 4.3^分辨率：720*1280
+vivo Y20T^品牌：vivo^型号：vivo Y20T^系统：Android 4.2.2^分辨率：720*1280
+vivo Y22iL^品牌：vivo^型号：vivo Y22iL^系统：Android 4.4.2^分辨率：480*854
+vivo Y2^品牌：vivo^型号：vivo Y29L^系统：Android 4.4.4^分辨率：720*1280
+vivo Y35^品牌：vivo^型号：vivo Y35^系统：Android 5.0.2^分辨率：720*1280
+vivo Y37L^品牌：vivo^型号：vivo Y37^系统：Android 5.0.2^分辨率：720*1280
+vivo Y51A^品牌：vivo^型号：vivo Y51A^系统：Android 5.0.2^分辨率：960*540
+vivo Y53^品牌：vivo^型号：vivo Y53^系统：Android 6.0.1^分辨率：960*540
+vivo Y613^品牌：vivo^型号：vivo Y613^系统：Android 4.2.2^分辨率：480*854
+vivo Y66L^品牌：vivo^型号：vivo Y66^系统：Android 6.0.1^分辨率：720*1280
+vivo Y67^品牌：vivo^型号：vivo Y67A^系统：Android 6.0^分辨率：720*1280
+vivo Y71（全网通）^品牌：vivo^型号：vivo Y71A^系统：Android 8.1.0^分辨率：720*1440
+vivo Y75（全网通）^品牌：vivo^型号：vivo Y75A^系统：Android 7.1.1^分辨率：720*1440
+vivo Y913^品牌：vivo^型号：vivo Y913^系统：Android 4.4.4^分辨率：480*854
+vivo Y927^品牌：vivo^型号：vivo Y927^系统：Android 4.4.4^分辨率：720*1280
+海信 M20-T^品牌：海信^型号：Hisense M20-T^系统：Android 4.4.4^分辨率：480*854
+酷派 5200S^品牌：酷派^型号：Coolpad 5200S^系统：Android 4.3^分辨率：800*480
+酷派 5891Q^品牌：酷派^型号：Coolpad 5891Q^系统：Android 4.1.2^分辨率：960*540
+酷派 8712^品牌：酷派^型号：Coolpad 8712^系统：Android 4.4.4^分辨率：480*854
+酷派 Y70-C^品牌：酷派^型号：Coolpad Y70 C^系统：Android 4.4.4^分辨率：1280*720
+酷派 锋尚Air^品牌：酷派^型号：Coolpad Y71-511^系统：Android 5.1^分辨率：960*540
+酷派 锋尚MAX^品牌：酷派^型号：Coolpad A8-930^系统：Android 5.1.1^分辨率：1080*1920
+酷派 锋尚^品牌：酷派^型号：Coolpad Y75^系统：Android 4.4.4^分辨率：960*540
+酷派大神 F2 全网通^品牌：酷派^型号：Coolpad 8675-A^系统：Android 4.4.4^分辨率：720*1280
+美图 M8s^品牌：美图^型号：MP1709^系统：Android 7.1.1^分辨率：1080*1920
+红米 3S^品牌：小米^型号：Redmi 3S^系统：Android 6.0.1^分辨率：720*1280
+红米 3^品牌：小米^型号：Redmi 3^系统：Android 5.1.1^分辨率：720*1280
+红米 4A^品牌：小米^型号：Redmi 4A^系统：Android 6.0.1^分辨率：720*1280
+红米 4X^品牌：小米^型号：Redmi 4X^系统：Android 7.1.2^分辨率：720*1280
+红米 4^品牌：小米^型号：Redmi 4^系统：Android 6.0.1^分辨率：1080*1920
+红米 5 Plus^品牌：小米^型号：Redmi 5 Plus^系统：Android 7.1.2^分辨率：1080*2160
+红米 5A^品牌：小米^型号：Redmi 5A^系统：Android 7.1.2^分辨率：720*1280
+红米 5^品牌：小米^型号：Redmi 5^系统：Android 7.1.2^分辨率：720*1440
+红米 6^品牌：小米^型号：Redmi 6^系统：Android 8.1.0^分辨率：720*1440
+红米 Note4X^品牌：小米^型号：Redmi Note 4X^系统：Android 7.0^分辨率：1080*1920
+红米 Note4^品牌：小米^型号：Redmi Note 4^系统：Android 6.0^分辨率：1080*1920
+红米 Note5^品牌：小米^型号：Redmi Note 5^系统：Android 8.1.0^分辨率：1080*2160
+红米1S 3G版^品牌：小米^型号：2014501^系统：Android 4.4.2^分辨率：720*1280
+红米1S 3G版^品牌：小米^型号：HM 1S^系统：Android 4.4.4^分辨率：720*1280
+麦芒 5 全网通^品牌：华为^型号：HUAWEI MLA-AL00^系统：Android 6.0^分辨率：1080*1920
+努比亚 M2^品牌：努比亚^型号：NX551J^系统：Android 6.0.1^分辨率：1080*1920
+努比亚 My 布拉格^品牌：努比亚^型号：NX513J^系统：Android 5.1.1^分辨率：1080*1920
+努比亚 N2^品牌：努比亚^型号：NX575J^系统：Android 6.0^分辨率：720*1280
+努比亚 Z11 Max^品牌：努比亚^型号：NX523J_V1^系统：Android 5.1.1^分辨率：1080*1920
+努比亚 Z11 miniS^品牌：努比亚^型号：NX549J^系统：Android 6.0.1^分辨率：1080*1920
+努比亚 Z11 mini^品牌：努比亚^型号：NX529J^系统：Android 5.1.1^分辨率：1080*1920
+努比亚 Z11^品牌：努比亚^型号：NX531J^系统：Android 6.0.1^分辨率：1080*1920
+努比亚 Z17 S^品牌：努比亚^型号：NX595J^系统：Android 7.1.1^分辨率：1080*2040
+努比亚 Z17 mini S^品牌：努比亚^型号：NX589J^系统：Android 7.1.1^分辨率：1080*1920
+努比亚 Z17 mini^品牌：努比亚^型号：NX569J^系统：Android 6.0.1^分辨率：1080*1920
+努比亚 Z17^品牌：努比亚^型号：NX563J^系统：Android 7.1.1^分辨率：1080*1920
+努比亚Z18 mini^品牌：努比亚^型号：NX611J^系统：Android 8.1.0^分辨率：2160*1080
+努比亚红魔电竞^品牌：努比亚^型号：NX609J^系统：Android 8.1.0^分辨率：1080*2160
+金立 E8^品牌：金立^型号：GN9008^系统：Android 5.1^分辨率：2560*1440
+金立 F100^品牌：金立^型号：F100^系统：Android 5.1^分辨率：720*1280
+金立 F103^品牌：金立^型号：F103^系统：Android 5.0^分辨率：720*1280
+金立 GN9006^品牌：金立^型号：GN9006^系统：Android 5.0.2^分辨率：1080*1920
+金立 GN9010^品牌：金立^型号：GN9010^系统：Android 5.1^分辨率：720*1280
+金立 M6S Plus^品牌：金立^型号：M6SPlus^系统：Android 6.0.1^分辨率：1080*1920
+金立 M6^品牌：金立^型号：GN8003^系统：Android 6.0^分辨率：1080*1920
+金立 S10C^品牌：金立^型号：GIONEE S10C^系统：Android 7.1.1^分辨率：720*1280
+金立 S10^品牌：金立^型号：GIONEE S10^系统：Android 7.0^分辨率：1080*1920
+金立F205^品牌：金立^型号：GIONEE F205^系统：Android 7.1.1^分辨率：720*1440
+金立F6^品牌：金立^型号：GIONEE F6^系统：Android 7.1.1^分辨率：720*1440
+金立M6 Plus^品牌：金立^型号：GN8002S^系统：Android 6.0^分辨率：1080*1920
+金立金钢2（全网通）^品牌：金立^型号：GN5005^系统：Android 6.0^分辨率：720*1280
+诺基亚 6^品牌：诺基亚^型号：TA-1000^系统：Android 7.1.1^分辨率：1920*1080
+诺基亚 7^品牌：诺基亚^型号：TA-1041^系统：Android 7.1.1^分辨率：1080*1920
+诺基亚 N1^品牌：诺基亚^型号：N1^系统：Android 5.1.1^分辨率：2048*1536
+诺基亚 X^品牌：诺基亚^型号：Nokia_X^系统：Android 4.1.2^分辨率：800*480
+国美 (GOME) U7^品牌：Skyworth^型号：GOME 2017M27A^系统：Android 7.1.1^分辨率：1080*2160

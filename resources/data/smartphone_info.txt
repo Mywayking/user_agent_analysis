@@ -1,0 +1,1431 @@
+Acer^Acer Liquid Z6^Acer Liquid Z6^August 2016
+Acer^Acer Liquid Jade Z630S^Acer Liquid Jade Z630S^September 2015
+Acer^Acer Liquid Z220^Acer Liquid Z220^March 2015
+Acer^Acer Liquid Jade S^Acer Liquid Jade S^December 2014
+AGM^AGM X1 Mini^AGM X1 Mini^July 2017
+AGM^AGM A8 SE^AGM A8 SE^May 2017
+AGM^AGM X2^AGM X2^February 2017
+AGM^AGM A8^AGM A8^February 2017
+AGM^AGM A2^AGM A2^January 2017
+AGM^AGM X1^AGM X1^November 2016
+Alcatel^Alcatel 1^Alcatel 1^June 2018
+Alcatel^Alcatel 3L^Alcatel 3L^June 2018
+Alcatel^Alcatel 1C^Alcatel 1C^February 2018
+Alcatel^Alcatel 1X^Alcatel 1X|5059A|5059D|5059I|5059J|5059T|5059X|5059Y^February 2018
+Alcatel^Alcatel 3^Alcatel 3|5052D|5052Y^February 2018
+Alcatel^Alcatel 3V^Alcatel 3V|5052D|5052Y^February 2018
+Alcatel^Alcatel 3X^Alcatel 3X|5058A|5058I|5058J|5058T|5058Y^February 2018
+Alcatel^Alcatel 5^Alcatel 5|5086A|5086D|5086Y^February 2018
+Alcatel^Alcatel 3C^Alcatel 3C|5026A|5026D^January 2018
+Alcatel^Alcatel A7 Xl^Alcatel A7 Xl|A7XL|7071DX^October 2017
+Alcatel^Alcatel Idol 5^Alcatel Idol 5^September 2017
+Alcatel^Alcatel A7^Alcatel A7^September 2017
+Alcatel^Alcatel U5 HD^Alcatel U5 HD^August 2017
+Alcatel^Alcatel A3 XL^Alcatel A3 XL|9008D|9008X^May 2017
+Alcatel^Alcatel A3^Alcatel A3|5046D|5046Y^February 2017
+Alcatel^Alcatel A5 LED^Alcatel A5 LED|5085D|5085Y^February 2017
+Alcatel^Alcatel U5^Alcatel U5^February 2017
+Alcatel^Alcatel Idol 4S^Alcatel Idol 4S|6070K|6070O|6070Y^June 2016
+Alcatel^Alcatel Pop 4+^Alcatel Pop 4+^May 2016
+Alcatel^Alcatel Pop 4 (6)^Alcatel Pop 4 (6)|Pop 4 XL^May 2016
+Alcatel^Alcatel Pixi 4 (4)^Alcatel Pixi 4 (4)^May 2016
+Alcatel^Alcatel Pixi 4 (6)^Alcatel Pixi 4 (6)|9001A|9001X^April 2016
+Alcatel^Alcatel Idol 4^Alcatel Idol 4|6055B|6055H|6055I|6055K|6055Y^March 2016
+Alcatel^Alcatel Pop 4 (5)^Alcatel Pop 4 (5)^March 2016
+Alcatel^Alcatel Pop 4S^Alcatel Pop 4S|5095B|5095I|5095K|5095Y^February 2016
+Alcatel^Alcatel OneTouch Pop 3 (5.5)^Alcatel OneTouch Pop 3 (5.5)^October 2015
+Alcatel^Alcatel OneTouch Pop 3 (5)^Alcatel OneTouch Pop 3 (5)^September 2015
+Alcatel^Alcatel Shine Lite^Alcatel Shine Lite^September 2015
+Alcatel^Alcatel Pixi 3^Alcatel Pixi 3|4027A|4027D|4027N|4027X|4028A|4028E|4028J^March 2015
+Alcatel^Alcatel OneTouch Pop S7^Alcatel OneTouch Pop S7|7045A|7045Y^February 2014
+Alcatel^Alcatel OneTouch Idol X+^Alcatel OneTouch Idol X+^January 2014
+Allcall^AllCall S1^AllCall S1^July 2018
+Allcall^Allcall Mix 2^Allcall Mix 2^April 2018
+Allcall^AllCall Atom^AllCall Atom^December 2017
+Allcall^AllCall Madrid^AllCall Madrid^November 2017
+Allcall^AllCall Alpha^AllCall Alpha^October 2017
+Allcall^Allcall Rio S^Allcall Rio S^August 2017
+Allcall^AllCall Rio^AllCall Rio^May 2017
+Allcall^Allcall Bro^Allcall Bro^May 2017
+Amigoo^Amigoo X10^Amigoo X10^November 2016
+Amigoo^Amigoo A5000^Amigoo A5000^July 2016
+Apple^Apple iPhone 8^Apple iPhone 8|iPhone Edition|iPhone Pro|A1905^September 2017
+Apple^Apple iPhone 8 Plus^Apple iPhone 8 Plus|A1897|A1905^September 2017
+Apple^Apple iPhone X^Apple iPhone X|iPhone Edition|iPhone Pro|A1901^September 2017
+Apple^Apple iPhone 7^Apple iPhone 7^September 2016
+Apple^Apple iPhone 7 Plus^Apple iPhone 7 Plus^September 2016
+Apple^Apple iPhone SE^Apple iPhone SE|iPhone Special Edition^March 2016
+Apple^Apple iPhone 6s^Apple iPhone 6s|A1633|A1688^September 2015
+Apple^Apple iPhone 6s Plus^Apple iPhone 6s Plus|A1634|A1687^September 2015
+Apple^Apple iPhone 6^Apple iPhone 6|A1549|A1586^September 2014
+Apple^Apple iPhone 6 Plus^Apple iPhone 6 Plus|A1522|A1524^September 2014
+Apple^Apple iPhone 5s^Apple iPhone 5s^September 2013
+Archos^Archos 50f Neon^Archos 50f Neon^May 2016
+Archos^Archos 55 Cobalt+^Archos 55 Cobalt+^April 2016
+Asus^Asus ROG Phone^Asus ROG Phone^June 2018
+Asus^Asus ZenFone Max Pro (M1)^Asus ZenFone Max Pro (M1)|ZB601KL^April 2018
+Asus^Asus ZenFone 5 Lite^Asus ZenFone 5 Lite|ZC600KL|5Q^February 2018
+Asus^Asus Zenfone 5^Asus Zenfone 5^February 2018
+Asus^Asus ZenFone Max Plus^Asus ZenFone Max Plus|M1^January 2018
+Asus^Asus ZenFone Pegasus 4S Max Plus^Asus ZenFone Pegasus 4S Max Plus|Asus ZenFone Pegasus 4S|X018DC|Asus ZenFone Pegasus 4 Max Plus^November 2017
+Asus^Asus ZenFone 4 Max ZC520KL^Asus ZenFone 4 Max ZC520KL^October 2017
+Asus^Asus ZenFone 4 Selfie ZB553KL^Asus ZenFone 4 Selfie ZB553KL^September 2017
+Asus^Asus ZenFone 4 Selfie Pro^Asus ZenFone 4 Selfie Pro^August 2017
+Asus^Asus ZenFone 4 ZE554KL^Asus ZenFone 4 ZE554KL^August 2017
+Asus^Asus ZenFone 4 Pro^Asus ZenFone 4 Pro^August 2017
+Asus^Asus ZenFone Pegasus 4A^Asus ZenFone Pegasus 4A^July 2017
+Asus^Asus ZenFone 4 Max^Asus ZenFone 4 Max^July 2017
+Asus^Asus ZenFone 4 Max^Asus ZenFone 4 Max|ZenFone 4 Max Octa Core|ZC554KL^April 2017
+Asus^Asus ZenFone Live^Asus ZenFone Live^February 2017
+Asus^Asus ZenFone 3S Max^Asus ZenFone 3S Max|ZC521TL|X00GD^January 2017
+Asus^Asus ZenFone Pegasus 3S^Asus ZenFone Pegasus 3S^January 2017
+Asus^Asus ZenFone AR^Asus ZenFone AR^January 2017
+Asus^Asus ZenFone 3 Zoom ZE553KL^Asus ZenFone 3 Zoom ZE553KL^December 2016
+Asus^Asus ZenFone 3 Deluxe ZS550KL^Asus ZenFone 3 Deluxe ZS550KL|ZS550KL|Zenfone 3 Deluxe 5.5^September 2016
+Asus^Asus ZenFone 3 Max ZC553KL^Asus ZenFone 3 Max ZC553KL^September 2016
+Asus^Asus ZenFone 3 Max ZC520TL^Asus ZenFone 3 Max ZC520TL^August 2016
+Asus^Asus ZenFone Go ZB450KL^Asus ZenFone Go ZB450KL^July 2016
+Asus^Asus ZenFone 3 ZE520KL^Asus ZenFone 3 ZE520KL^July 2016
+Asus^Asus ZenFone Go ZB552KL^Asus ZenFone Go ZB552KL^July 2016
+Asus^Asus ZenFone Pegasus 3^Asus ZenFone Pegasus 3|X008|^June 2016
+Asus^Asus ZenFone 3^Asus ZenFone 3^May 2016
+Asus^Asus ZenFone 3 Deluxe^Asus ZenFone 3 Deluxe^May 2016
+Asus^Asus Zenfone Go ZB452KG^Asus Zenfone Go ZB452KG^April 2016
+Asus^Asus Zenfone Go ZB551KL^Asus Zenfone Go ZB551KL^April 2016
+Asus^Asus ZenFone C^Asus ZenFone C^February 2016
+Asus^Asus Zenfone Go^Asus Zenfone Go^January 2016
+Asus^Asus ZenFone 2 Laser ZE500KL^Asus ZenFone 2 Laser ZE500KL^October 2015
+Asus^Asus ZenFone Zoom ZX551ML^Asus ZenFone Zoom ZX551ML^September 2015
+Asus^Asus ZenFone Max^Asus ZenFone Max^August 2015
+Asus^Asus ZenFone 2 ZE551ML^Asus ZenFone 2 ZE551ML^August 2015
+Asus^Asus ZenFone 2 Laser ZE550KL^Asus ZenFone 2 Laser ZE550KL^August 2015
+Asus^Asus ZenFone Go^Asus ZenFone Go^August 2015
+Asus^Asus ZenFone 2 Laser ZE601KL^Asus ZenFone 2 Laser ZE601KL^August 2015
+Asus^Asus ZenFone Selfie^Asus ZenFone Selfie^June 2015
+Asus^Asus ZenFone Selfie^Asus ZenFone Selfie^June 2015
+Asus^Asus ZenFone 2 ZE550ML^Asus ZenFone 2 ZE550ML^March 2015
+Asus^Asus PadFone mini 4.3^Asus PadFone mini 4.3^December 2013
+Asus^Asus ZenFone 4 A450CG^Asus ZenFone 4 A450CG|A450CG^July 2013
+BlackBerry^BlackBerry KEY2^BlackBerry KEY2|KEYtwo|Athena^June 2018
+BlackBerry^BlackBerry Motion^BlackBerry Motion^October 2017
+BlackBerry^BlackBerry KEYone^BlackBerry KEYone^March 2017
+BlackBerry^BlackBerry DTEK60^BlackBerry DTEK60^November 2016
+BlackBerry^BlackBerry DTEK50^BlackBerry DTEK50^July 2016
+BlackBerry^BlackBerry Priv^BlackBerry Priv|STV100-1|STV100-3|STV100-4^September 2015
+Blackview^Blackview A30^Blackview A30^July 2018
+Blackview^Blackview BV9500^Blackview BV9500^July 2018
+Blackview^Blackview BV5800 Pro^Blackview BV5800 Pro^May 2018
+Blackview^Blackview BV5800^Blackview BV5800^May 2018
+Blackview^Blackview A20^Blackview A20^April 2018
+Blackview^Blackview P10000 Pro^Blackview P10000 Pro^March 2018
+Blackview^Blackview S6^Blackview S6^January 2018
+Blackview^Blackview P6000^Blackview P6000^December 2017
+Blackview^Blackview BV9000^Blackview BV9000^November 2017
+Blackview^Blackview A10^Blackview A10^November 2017
+Blackview^Blackview S8^Blackview S8^October 2017
+Blackview^Blackview BV4000^Blackview BV4000^September 2017
+Blackview^Blackview A7^Blackview A7^July 2017
+Blackview^Blackview BV8000 Pro^Blackview BV8000 Pro^June 2017
+Blackview^Blackview P2 lite^Blackview P2 lite^March 2017
+Blackview^Blackview A9 Pro^Blackview A9 Pro^March 2017
+Blackview^Blackview BV7000 Pro^Blackview BV7000 Pro^February 2017
+Blackview^Blackview P2^Blackview P2^December 2016
+Blackview^Blackview E7s^Blackview E7s^October 2016
+Blackview^Blackview R6^Blackview R6^September 2016
+Blackview^Blackview BV7000^Blackview BV7000^September 2016
+Blackview^Blackview E7^Blackview E7^August 2016
+Blackview^Blackview A8 Max^Blackview A8 Max^July 2016
+Blackview^Blackview BV6000s^Blackview BV6000s^July 2016
+Blackview^Blackview R7^Blackview R7^May 2016
+Blackview^Blackview BV6000^Blackview BV6000^April 2016
+Blackview^Blackview BV5000^Blackview BV5000^August 2015
+Blackview^Blackview A5^Blackview A5^July 2015
+Blackview^Blackview Zeta^Blackview Zeta^March 2015
+BLU^BLU Vivo 5 Mini^BLU Vivo 5 Mini|V050EQ|V050Q^January 2017
+BLU^BLU Vivo 5R^BLU Vivo 5R^September 2016
+BLU^BLU Life One X3^BLU Life One X3^July 2016
+BLU^BLU Grand X^BLU Grand X|G090EQ|G090Q^June 2016
+BLU^BLU Life Mark^BLU Life Mark^March 2016
+Bluboo^Bluboo D6^Bluboo D6^May 2018
+Bluboo^Bluboo D5 Pro^Bluboo D5 Pro^January 2018
+Bluboo^Bluboo S3^Bluboo S3^January 2018
+Bluboo^Bluboo D2^Bluboo D2^December 2017
+Bluboo^Bluboo S8+^Bluboo S8+^September 2017
+Bluboo^Bluboo S8^Bluboo S8^July 2017
+Bluboo^Bluboo S1^Bluboo S1^May 2017
+Bluboo^Bluboo D1^Bluboo D1^April 2017
+Bluboo^Bluboo Edge^Bluboo Edge^November 2016
+Bluboo^Bluboo Dual^Bluboo Dual^November 2016
+Bluboo^Bluboo Mini^Bluboo Mini^October 2016
+Bluboo^Bluboo Maya Max^Bluboo Maya Max^July 2016
+Bluboo^Bluboo Maya^Bluboo Maya^June 2016
+Bluboo^Bluboo Picasso^Bluboo Picasso^October 2015
+BQ^BQ Aquaris X2^BQ Aquaris X2^May 2018
+BQ^BQ Aquaris X2 Pro^BQ Aquaris X2 Pro^May 2018
+BQ^BQ Aquaris VS^BQ Aquaris VS^February 2018
+BQ^BQ Aquaris VS Plus^BQ Aquaris VS Plus^February 2018
+BQ^BQ Aquaris U2 Lite^BQ Aquaris U2 Lite^September 2017
+BQ^BQ Aquaris U2^BQ Aquaris U2^September 2017
+BQ^BQ Aquaris V^BQ Aquaris V^September 2017
+BQ^BQ Aquaris V Plus^BQ Aquaris V Plus^September 2017
+BQ^BQ Aquaris X^BQ Aquaris X^March 2017
+BQ^BQ Aquaris X Pro^BQ Aquaris X Pro^March 2017
+BQ^BQ Aquaris M 2017^BQ Aquaris M 2017^March 2017
+BQ^BQ Aquaris U Lite^BQ Aquaris U Lite^September 2016
+BQ^BQ Aquaris U^BQ Aquaris U^September 2016
+BQ^BQ Aquaris U Plus^BQ Aquaris U Plus^September 2016
+BQ^BQ Aquaris X5^BQ Aquaris X5^October 2015
+Cagabi^Cagabi One^Cagabi One^March 2017
+Caterpillar^Caterpillar Cat S61^Caterpillar Cat S61^February 2018
+Caterpillar^Caterpillar Cat S41^Caterpillar Cat S41^November 2017
+Caterpillar^Caterpillar Cat S60^Caterpillar Cat S60^July 2016
+Caterpillar^Caterpillar Cat S50^Caterpillar Cat S50^January 2014
+China Mobile^China Mobile A3S^China Mobile A3S^February 2018
+Coolpad^Coolpad Note 6^Coolpad Note 6^May 2018
+Coolpad^Coolpad A1^Coolpad A1^April 2018
+Coolpad^Coolpad Torino S2^Coolpad Torino S2^August 2017
+Coolpad^Coolpad Note 5 Lite C^Coolpad Note 5 Lite C^August 2017
+Coolpad^Coolpad Cool Play 6^Coolpad Cool Play 6|CoolPlay 6|ColdPlay 6|Kuwan 6|VCR-A0^May 2017
+Coolpad^Coolpad Note 5 Lite^Coolpad Note 5 Lite^March 2017
+Coolpad^Coolpad Mega 3^Coolpad Mega 3|Mega3|3503I^December 2016
+Coolpad^Coolpad Note 5^Coolpad Note 5|Note 5 Beast|Note5^October 2016
+Coolpad^Coolpad Mega^Coolpad Mega^September 2016
+Coolpad^Coolpad R108^Coolpad R108|Coolpad Y91^July 2016
+Coolpad^Coolpad Fancy^Coolpad Fancy^February 2016
+Coolpad^Coolpad Note 3S^Coolpad Note 3S^October 2015
+Cubot^Cubot P20^Cubot P20^July 2018
+Cubot^Cubot J3^Cubot J3^May 2018
+Cubot^Cubot Nova^Cubot Nova^May 2018
+Cubot^Cubot J3 Pro^Cubot J3 Pro^May 2018
+Cubot^Cubot X18 Plus^Cubot X18 Plus^February 2018
+Cubot^Cubot R11^Cubot R11^February 2018
+Cubot^Cubot H3^Cubot H3^September 2017
+Cubot^Cubot KingKong^Cubot KingKong^September 2017
+Cubot^Cubot X18^Cubot X18^August 2017
+Cubot^Cubot Note Plus^Cubot Note Plus^August 2017
+Cubot^Cubot Magic^Cubot Magic^July 2017
+Cubot^Cubot R9^Cubot R9^May 2017
+Cubot^Cubot Rainbow 2^Cubot Rainbow 2^February 2017
+Cubot^Cubot Cheetah 2^Cubot Cheetah 2^November 2016
+Cubot^Cubot Manito^Cubot Manito^September 2016
+Cubot^Cubot Echo^Cubot Echo^August 2016
+Cubot^Cubot Max^Cubot Max^July 2016
+Cubot^Cubot X16 S^Cubot X16 S^June 2016
+Cubot^Cubot Rainbow^Cubot Rainbow^June 2016
+Cubot^Cubot Dinosaur^Cubot Dinosaur^March 2016
+Cubot^Cubot One S^Cubot One S^January 2016
+Cubot^Cubot Note S^Cubot Note S^January 2016
+Cubot^Cubot Z100^Cubot Z100^January 2016
+Cubot^Cubot CheetahPhone^Cubot CheetahPhone^November 2015
+Cubot^Cubot X12^Cubot X12^October 2015
+Cubot^Cubot X15^Cubot X15^August 2015
+Cubot^Cubot X11^Cubot X11^January 2015
+Cubot^Cubot GT88^Cubot GT88^June 2014
+Cubot^Cubot Bobby^Cubot Bobby|^March 2014
+Cubot^Cubot P6^Cubot P6^December 2013
+Doogee^Doogee BL5500 Lite^Doogee BL5500 Lite^August 2018
+Doogee^Doogee X70^Doogee X70^August 2018
+Doogee^Doogee S55 Lite^Doogee S55 Lite^July 2018
+Doogee^Doogee S55^Doogee S55^July 2018
+Doogee^Doogee X50^Doogee X50^June 2018
+Doogee^Doogee X50L^Doogee X50L^May 2018
+Doogee^Doogee BL9000^Doogee BL9000^May 2018
+Doogee^Doogee X55^Doogee X55^February 2018
+Doogee^Doogee X53^Doogee X53^February 2018
+Doogee^Doogee X60L^Doogee X60L^January 2018
+Doogee^Doogee S50^Doogee S50^December 2017
+Doogee^Doogee BL12000 Pro^Doogee BL12000 Pro^December 2017
+Doogee^Doogee BL12000^Doogee BL12000^November 2017
+Doogee^Doogee Mix 2^Doogee Mix 2^September 2017
+Doogee^Doogee Mix Lite^Doogee Mix Lite^September 2017
+Doogee^Doogee S30^Doogee S30^August 2017
+Doogee^Doogee BL7000^Doogee BL7000^August 2017
+Doogee^Doogee S60^Doogee S60^August 2017
+Doogee^Doogee X20L^Doogee X20L^August 2017
+Doogee^Doogee X20^Doogee X20^July 2017
+Doogee^Doogee BL5000^Doogee BL5000^July 2017
+Doogee^Doogee X30^Doogee X30^May 2017
+Doogee^Doogee Mix^Doogee Mix^April 2017
+Doogee^Doogee x10^Doogee x10^April 2017
+Doogee^Doogee Shoot 2^Doogee Shoot 2^February 2017
+Doogee^Doogee Shoot 1^Doogee Shoot 1^December 2016
+Doogee^Doogee Y6 Max^Doogee Y6 Max^October 2016
+Doogee^Doogee X9 Mini^Doogee X9 Mini^October 2016
+Doogee^Doogee X9^Doogee X9^October 2016
+Doogee^Doogee Y6C^Doogee Y6C^September 2016
+Doogee^Doogee X7 Pro^Doogee X7 Pro^September 2016
+Doogee^Doogee Y6^Doogee Y6^July 2016
+Doogee^Doogee T5^Doogee T5^July 2016
+Doogee^Doogee X5 Max Pro^Doogee X5 Max Pro^June 2016
+Doogee^Doogee X5 Max^Doogee X5 Max^May 2016
+Doogee^Doogee F7^Doogee F7^April 2016
+Doogee^Doogee X5 3G Galicia^Doogee X5 3G Galicia^September 2015
+Doogee^Doogee X5 Pro 4G Galicia^Doogee X5 Pro 4G Galicia^September 2015
+Doogee^Doogee Valencia 2 Y100 Pro^Doogee Valencia 2 Y100 Pro^June 2015
+Doogee^Doogee S70 Lite^Doogee S70 Lite^Rumors
+Doopro^Doopro C1^Doopro C1^December 2017
+Doopro^Doopro P3^Doopro P3^October 2017
+Doopro^Doopro P1 Pro^Doopro P1 Pro^October 2017
+Doopro^Doopro P5^Doopro P5^October 2017
+E&L^E&L W6S^E&L W6S^December 2017
+E&L^E&L S30^E&L S30|E L S30|E AND L S30|EL S30^August 2017
+E&L^E&L W5S^E&L W5S^June 2017
+E&L^E&L S60^E&L S60|E L S60|E and L S60|EL S60^February 2017
+E&L^E&L S50^E&L S50^February 2017
+E&L^E&L W7^E&L W7^July 2016
+E&L^E&L W6^E&L W6|E AND L W6|EL W6|E L W6^March 2016
+E&L^E&L W5^E&L W5|Kenxinda W5^February 2016
+E&L^E&L W9^E&L W9|E AND l W9|EL W9|E L W9^February 2016
+E&L^E&L W8^E&L W8|E L W8|E AND L W8|EL W8^February 2016
+Elephone^Elephone Soldier^Elephone Soldier^July 2018
+Elephone^Elephone A4 Pro^Elephone A4 Pro^May 2018
+Elephone^Elephone A4^Elephone A4^April 2018
+Elephone^Elephone U^Elephone U^February 2018
+Elephone^Elephone U Pro^Elephone U Pro^February 2018
+Elephone^Elephone P8 Max^Elephone P8 Max^December 2017
+Elephone^Elephone P8 3D^Elephone P8 3D^November 2017
+Elephone^Elephone S8^Elephone S8^August 2017
+Elephone^Elephone P8 2017^Elephone P8 2017^May 2017
+Elephone^Elephone P8 Mini 2017^Elephone P8 Mini 2017^May 2017
+Elephone^Elephone A1^Elephone A1^May 2017
+Elephone^Elephone C1 Mini^Elephone C1 Mini^May 2017
+Elephone^Elephone C1 Max^Elephone C1 Max^March 2017
+Elephone^Elephone Z1^Elephone Z1^March 2017
+Elephone^Elephone S7^Elephone S7^October 2016
+Elephone^Elephone C1^Elephone C1^September 2016
+Elephone^Elephone G5^Elephone G5^August 2014
+Elephone^Elephone M1^Elephone M1^February 2014
+Elephone^Elephone P7 mini^Elephone P7 mini|^December 2013
+Energy^Energy Phone Max 3+^Energy Phone Max 3+^October 2017
+Energy^Energy Sistem Energy Phone Pro 3^Energy Sistem Energy Phone Pro 3^April 2017
+Energy^Energy Phone Pro^Energy Phone Pro^May 2016
+Energy^Energy Phone Max 4000^Energy Phone Max 4000^April 2016
+Energy^Energy Phone Neo Lite^Energy Phone Neo Lite^December 2015
+Energy^Energy Phone Max 4G^Energy Phone Max 4G^October 2015
+Essential^Essential PH-1^Essential PH-1|Essential Phone^May 2017
+Geotel^Geotel G1^Geotel G1|G1 Terminator^July 2017
+Geotel^Geotel Amigo^Geotel Amigo^June 2017
+Geotel^Geotel A1^Geotel A1^December 2016
+Gigaset^Gigaset GS160^Gigaset GS160^March 2017
+Gigaset^Gigaset ME Pure^Gigaset ME Pure^September 2015
+Gigaset^Gigaset ME^Gigaset ME^September 2015
+Gigaset^Gigaset ME Pro^Gigaset ME Pro^September 2015
+Gionee^Gionee F6^Gionee F6^May 2018
+Gionee^Gionee F205^Gionee F205^April 2018
+Gionee^Gionee S11 Lite^Gionee S11 Lite^April 2018
+Gionee^Gionee X1s^Gionee X1s^March 2018
+Gionee^Gionee A1 Lite^Gionee A1 Lite^March 2018
+Gionee^Gionee M7 Power^Gionee M7 Power^March 2018
+Gionee^Gionee S10 Lite^Gionee S10 Lite^December 2017
+Gionee^Gionee X1^Gionee X1^August 2017
+Gionee^Gionee A1 Plus^Gionee A1 Plus^February 2017
+Gionee^Gionee A1^Gionee A1^February 2017
+Gionee^Gionee P7^Gionee P7^December 2016
+Gionee^Gionee P7 Max^Gionee P7 Max^October 2016
+Gionee^Gionee S6s^Gionee S6s^September 2016
+Gionee^Gionee F103 Pro^Gionee F103 Pro^August 2016
+Gionee^Gionee S6 Pro^Gionee S6 Pro^June 2016
+Gionee^Gionee Pioneer P5 Mini^Gionee Pioneer P5 Mini^May 2016
+Gionee^Gionee P5w^Gionee P5w^April 2016
+Gionee^Gionee Pioneer P5L^Gionee Pioneer P5L^April 2016
+Gionee^Gionee Marathon M5 Lite^Gionee Marathon M5 Lite^December 2015
+Gionee^Gionee S6^Gionee S6^November 2015
+Gionee^Gionee Marathon M5^Gionee Marathon M5^May 2015
+Gionee^Gionee Elife E8^Gionee Elife E8^May 2015
+Gome^Gome K1^Gome K1^August 2017
+Google^Google Pixel 2^Google Pixel 2^October 2017
+Google^Google Pixel 2 XL^Google Pixel 2 XL^October 2017
+Google^Google Pixel^Google Pixel^October 2016
+Google^Google Pixel XL^Google Pixel XL^October 2016
+Gretel^Gretel A7^Gretel A7^March 2017
+Hafury^Hafury Mix^Hafury Mix^May 2017
+Hafury^Hafury UMax^Hafury UMax^April 2017
+HiSense^HiSense H11 Lite^HiSense H11 Lite|Infinity H11 Lite^February 2018
+HiSense^HiSense H11^HiSense H11^February 2018
+HiSense^HiSense C30 Rock^HiSense C30 Rock^February 2017
+HiSense^HiSense U972^HiSense U972^January 2017
+HiSense^HiSense C30 Lite^HiSense C30 Lite|Rock C30 Lite|C30Lite^February 2016
+HiSense^HiSense U989^HiSense U989|Infinity U989|HS-U989^December 2015
+HomTom^HomTom C2^HomTom C2^August 2018
+HomTom^HomTom H10^HomTom H10^July 2018
+HomTom^HomTom S99^HomTom S99^June 2018
+HomTom^HomTom HT70^HomTom HT70^March 2018
+HomTom^HomTom S12^HomTom S12^January 2018
+HomTom^HomTom S7^HomTom S7^October 2017
+HomTom^HomTom S9 Plus^HomTom S9 Plus^September 2017
+HomTom^HomTom HT26^HomTom HT26^September 2017
+HomTom^HomTom S16^HomTom S16^September 2017
+HomTom^HomTom S8^HomTom S8^August 2017
+HomTom^HomTom HT50^HomTom HT50^June 2017
+HomTom^HomTom HT37^HomTom HT37^February 2017
+HomTom^HomTom HT30^HomTom HT30^February 2017
+HomTom^HomTom HT20 Pro^HomTom HT20 Pro^January 2017
+HomTom^HomTom HT27^HomTom HT27^November 2016
+HomTom^HomTom HT17 Pro^HomTom HT17 Pro^July 2016
+HomTom^HomTom HT16^HomTom HT16^July 2016
+HomTom^HomTom HT17^HomTom HT17^May 2016
+HomTom^Homtom HT10^Homtom HT10^April 2016
+HomTom^HomTom HT7^HomTom HT7^December 2015
+HomTom^HomTom HT3^HomTom HT3^September 2015
+HomTom^HomTom HT3 Pro^HomTom HT3 Pro^March 2015
+HTC^HTC U12+^HTC U12+|U12 Plus|U12Plus^May 2018
+HTC^HTC Desire 12+^HTC Desire 12+|Desire 12Plus|Desire 12 Plus^March 2018
+HTC^HTC Desire 12^HTC Desire 12^March 2018
+HTC^HTC U11 EYEs^HTC U11 EYEs^February 2018
+HTC^HTC U11+^HTC U11+|U11 Plus|U 11 Plus|U 11+^November 2017
+HTC^HTC U11 Life^HTC U11 Life|U11 Life A1|U11 Android One^October 2017
+HTC^HTC U11^HTC U11^May 2017
+HTC^HTC U Ultra^HTC U Ultra^January 2017
+HTC^HTC U Play^HTC U Play^January 2017
+HTC^HTC 10 Evo^HTC 10 Evo^November 2016
+HTC^HTC Desire 10 Pro^HTC Desire 10 Pro^September 2016
+HTC^HTC Desire 628^HTC Desire 628^May 2016
+HTC^HTC Desire 830^HTC Desire 830^May 2016
+HTC^HTC 10^HTC 10^April 2016
+HTC^HTC Desire 630^HTC Desire 630^February 2016
+HTC^HTC Desire 825^HTC Desire 825^February 2016
+HTC^HTC J Butterfly^HTC J Butterfly|HTV31^November 2015
+HTC^HTC Desire 828^HTC Desire 828^November 2015
+HTC^HTC One A9^HTC One A9^October 2015
+HTC^HTC Desire 728G^HTC Desire 728G^October 2015
+HTC^HTC Desire 728^HTC Desire 728|HTC Desire 728w^July 2015
+HTC^HTC One ME^HTC One ME^June 2015
+HTC^HTC One M9+^HTC One M9+^May 2015
+HTC^HTC One M8s^HTC One M8s^April 2015
+HTC^HTC Desire 820s^HTC Desire 820s^March 2015
+HTC^HTC One (M9)^HTC One (M9)^March 2015
+HTC^HTC Desire 626G^HTC Desire 626G|Desire 626 G|Desire 626G+^February 2015
+HTC^HTC Desire 526G+^HTC Desire 526G+^January 2015
+HTC^HTC Desire 620G^HTC Desire 620G^December 2014
+HTC^HTC Desire 626^HTC Desire 626^February 2014
+HTC^HTC Desire 610^HTC Desire 610^February 2014
+Huawei^Huawei Honor 8x Max^Huawei Honor 8x Max^September 2018
+Huawei^Huawei P Smart+^Huawei P Smart+|nova3i|INE-LX1|INE-LX2^July 2018
+Huawei^Huawei Honor Note 10^Huawei Honor Note 10|Honor Note10|RVL-AL10^July 2018
+Huawei^Huawei Honor 9N^Huawei Honor 9N^July 2018
+Huawei^Huawei nova 3i^Huawei nova 3i|nova3i|INE-LX1|INE-LX2^July 2018
+Huawei^Huawei Nova 3^Huawei Nova 3|Nova3|PAR-AL00^July 2018
+Huawei^Huawei Honor Play^Huawei Honor Play^June 2018
+Huawei^Huawei Y5 2018^Huawei Y5 2018^May 2018
+Huawei^Huawei Y3 2018^Huawei Y3 2018|Y3 (2018)|CAG-L02|CAG-L03|CAG-L22|CAG-L23^May 2018
+Huawei^Huawei Honor 7S^Huawei Honor 7S^May 2018
+Huawei^Huawei Y6 2018^Huawei Y6 2018|Y6 (2018)|ATU-L11|ATU-L21|ATU-L22|ATU-LX3^May 2018
+Huawei^Huawei Honor 10^Huawei Honor 10|Huawei Honor 10 AL10^April 2018
+Huawei^Huawei Mate RS^Huawei Mate RS|Huawei Mate RS Porsche Design^April 2018
+Huawei^Huawei Enjoy 8e^Huawei Enjoy 8e^March 2018
+Huawei^Huawei Honor 7A^Huawei Honor 7A^March 2018
+Huawei^Huawei Y7 Prime 2018^Huawei Y7 Prime 2018|LDN-L21|LDN-TL10^March 2018
+Huawei^Huawei Enjoy 8^Huawei Enjoy 8^March 2018
+Huawei^Huawei Enjoy 8 Plus^Huawei Enjoy 8 Plus^March 2018
+Huawei^Huawei Y9 (2018)^Huawei Y9 (2018)|FLA-AL00|FLA-LA10^March 2018
+Huawei^Huawei P20 Lite^Huawei P20 Lite|Nova 3e^March 2018
+Huawei^Huawei P20^Huawei P20^March 2018
+Huawei^Huawei P20 Pro^Huawei P20 Pro^March 2018
+Huawei^Huawei nova 3e^Huawei nova 3e|P20 Lite^March 2018
+Huawei^Huawei Y7 Pro 2018^Huawei Y7 Pro 2018^March 2018
+Huawei^Huawei Honor 7C^Huawei Honor 7C^March 2018
+Huawei^Huawei P Smart^Huawei P Smart|FIG-LA1|FIG-LX2|FIG-LX3^February 2018
+Huawei^Huawei Nova 2s^Huawei Nova 2s^December 2017
+Huawei^Huawei Enjoy 7s^Huawei Enjoy 7s|FIG-AL00|FIG-AL10|FIG-TL00|FIG-TL10^December 2017
+Huawei^Huawei Honor 9 Lite^Huawei Honor 9 Lite|Honor 9 Youth|LLD-AL00|LLD-AL10|LLD-TL10^December 2017
+Huawei^Huawei Honor V10^Huawei Honor V10|Honor View 10^November 2017
+Huawei^Huawei Honor 6C Pro^Huawei Honor 6C Pro^November 2017
+Huawei^Huawei Honor Holly 4^Huawei Honor Holly 4^October 2017
+Huawei^Huawei Honor 7x^Huawei Honor 7x|BND-AL10|BND-TL10^October 2017
+Huawei^Huawei Mate 10 Lite^Huawei Mate 10 Lite^October 2017
+Huawei^Huawei Mate 10^Huawei Mate 10^October 2017
+Huawei^Huawei Mate 10 Pro^Huawei Mate 10 Pro|BLA-L09|BLA-L29^October 2017
+Huawei^Huawei Honor Holly 4 Plus^Huawei Honor Holly 4 Plus|Honor Holly 4Plus|Honor Holly 4+|Honor Holly4+|Honor Holly4Plus^October 2017
+Huawei^Huawei Maimang 6^Huawei Maimang 6|Mang6|RNE-AL00^September 2017
+Huawei^Huawei nova 2i^Huawei nova 2i^September 2017
+Huawei^Huawei Honor 6 Play^Huawei Honor 6 Play^September 2017
+Huawei^Huawei Honor V9 Play^Huawei Honor V9 Play^September 2017
+Huawei^Huawei P9 Lite mini^Huawei P9 Lite mini^August 2017
+Huawei^Huawei Y6 2017^Huawei Y6 2017^July 2017
+Huawei^Huawei Enjoy 7^Huawei Enjoy 7^July 2017
+Huawei^Huawei Honor Holly 3+^Huawei Honor Holly 3+|Honor Holly 3 Plus|Honor Holly 3Plus^June 2017
+Huawei^Huawei Honor 9^Huawei Honor 9|Glory 9|STF-AL00|STF-AL10^June 2017
+Huawei^Huawei Y7 Prime^Huawei Y7 Prime^June 2017
+Huawei^Huawei Nova 2^Huawei Nova 2|Nova2|PIC-AL00^May 2017
+Huawei^Huawei Nova 2 Plus^Huawei Nova 2 Plus|Nova2Plus|Nova 2+|Nova2+|Nova 2Plus|BAC-AL00^May 2017
+Huawei^Huawei Nova Young^Huawei Nova Young^May 2017
+Huawei^Huawei Y6 Pro 2017^Huawei Y6 Pro 2017^May 2017
+Huawei^Huawei Honor 6A^Huawei Honor 6A^May 2017
+Huawei^Huawei Y7^Huawei Y7|TRT-LX1|TRT-LX2|TRT-LX3^May 2017
+Huawei^Huawei Nova Youth^Huawei Nova Youth^May 2017
+Huawei^Huawei Nova Smart^Huawei Nova Smart^April 2017
+Huawei^Huawei Enjoy 7 Plus^Huawei Enjoy 7 Plus|Enjoy 7Plus|华为畅享7Plus|TRT-AL00^April 2017
+Huawei^Huawei Honor Bee 2^Huawei Honor Bee 2^April 2017
+Huawei^Huawei Honor 9i^Huawei Honor 9i^April 2017
+Huawei^Huawei Honor 6C^Huawei Honor 6C^April 2017
+Huawei^Huawei P10 Lite^Huawei P10 Lite^March 2017
+Huawei^Huawei Honor 8 Pro^Huawei Honor 8 Pro|Honor V9^March 2017
+Huawei^Huawei P10^Huawei P10^February 2017
+Huawei^Huawei P10 Plus^Huawei P10 Plus^February 2017
+Huawei^Huawei Honor V9^Huawei Honor V9|Honor V8 Pro^February 2017
+Huawei^Huawei Nova Lite^Huawei Nova Lite|P8 Lite 2017^February 2017
+Huawei^Huawei Honor 8 Lite^Huawei Honor 8 Lite^February 2017
+Huawei^Huawei P8 Lite 2017^Huawei P8 Lite 2017^January 2017
+Huawei^Huawei P9 Lite 2017^Huawei P9 Lite 2017^January 2017
+Huawei^Huawei Honor Magic^Huawei Honor Magic^December 2016
+Huawei^Huawei Honor 8 Smart^Huawei Honor 8 Smart^December 2016
+Huawei^Huawei Enjoy 6s^Huawei Enjoy 6s^December 2016
+Huawei^Huawei Mate 9 Pro^Huawei Mate 9 Pro^November 2016
+Huawei^Huawei Mate 9^Huawei Mate 9^November 2016
+Huawei^Huawei Enjoy 6^Huawei Enjoy 6^October 2016
+Huawei^Huawei Honor 6X^Huawei Honor 6X^October 2016
+Huawei^Huawei Honor Holly 3^Huawei Honor Holly 3^October 2016
+Huawei^Huawei Nova^Huawei Nova^September 2016
+Huawei^Huawei Nova Plus^Huawei Nova Plus^September 2016
+Huawei^Huawei Honor Note 8^Huawei Honor Note 8^August 2016
+Huawei^Huawei G9 Plus^Huawei G9 Plus|MLA-TL00|MLA-UL00^July 2016
+Huawei^Huawei Y6 II^Huawei Y6 II|Y6 ii|CAM-L03|CAM-L21|CAM-L23^July 2016
+Huawei^Huawei GT3^Huawei GT3^June 2016
+Huawei^Huawei G9 Lite^Huawei G9 Lite^June 2016
+Huawei^Huawei Ascend Y5 II^Huawei Ascend Y5 II^June 2016
+Huawei^Huawei Honor 5C^Huawei Honor 5C|NEM-TL00H|NEM-UL10^April 2016
+Huawei^Huawei P9^Huawei P9^April 2016
+Huawei^Huawei P9 Lite^Huawei P9 Lite^March 2016
+Huawei^Huawei Honor Holly 2 Plus^Huawei Honor Holly 2 Plus^February 2016
+Huawei^Huawei Y6 Pro^Huawei Y6 Pro|TIT-AL00|TIT-U02^February 2016
+Huawei^Huawei Enjoy 5S^Huawei Enjoy 5S^December 2015
+Huawei^Huawei Y6^Huawei Y6|honor Y6^October 2015
+Huawei^Huawei GR3^Huawei GR3|L01|L03|L13|L21|L22|L23^August 2015
+Huawei^Huawei G Play mini^Huawei G Play mini^April 2015
+Huawei^Huawei Y625^Huawei Y625^April 2015
+Huawei^Huawei P8 Lite^Huawei P8 Lite^April 2015
+Huawei^Huawei P8^Huawei P8^April 2015
+Huawei^Huawei Honor 4C Play^Huawei Honor 4C Play|CHM-CL00|CHM-TL00|CHM-UL00^February 2015
+Huawei^Huawei Honor 6 Plus^Huawei Honor 6 Plus|Honor 6x|Glory 6 Plus^December 2014
+Huawei^Huawei Honor Holly^Huawei Honor Holly^October 2014
+Huawei^Huawei Ascend G620S^Huawei Ascend G620S^September 2014
+Huawei^Huawei Honor 3X^Huawei Honor 3X|Ascend G750-T00|Glory 4^December 2013
+Huawei^Huawei Mate 20 Lite^Huawei Mate 20 Lite^Rumors
+I Kall^I Kall K2^I Kall K2^February 2018
+I Kall^I Kall K3^I Kall K3^February 2018
+I Kall^I Kall K1^I Kall K1^January 2018
+iLA^iLa Silk^iLa Silk^March 2018
+iLA^iLA X^iLA X^January 2018
+iLA^iLA D1 Big eyes^iLA D1 Big eyes^August 2017
+iLA^iLA S1 King kong^iLA S1 King kong|S1 Kingkong|KingKong S1^July 2017
+Infinix^Infinix Hot 6 Pro^Infinix Hot 6 Pro|Hot6 Pro|Hot6Pro^July 2018
+InFocus^InFocus Vision 3 Pro^InFocus Vision 3 Pro|Vision3Pro|Vision 3Pro^April 2018
+InFocus^InFocus Vision 3^InFocus Vision 3^December 2017
+InFocus^InFocus A3^InFocus A3^November 2017
+InFocus^InFocus Snap 4^InFocus Snap 4^September 2017
+InFocus^InFocus Turbo 5 Plus^InFocus Turbo 5 Plus|Turbo 5Plus|Turbo 5+|IF9021^September 2017
+InFocus^InFocus M808 v5^InFocus M808 v5^April 2016
+InnJoo^InnJoo Fire4 Plus^InnJoo Fire4 Plus|Fire 4 Plus|Fire4Plus^May 2017
+InnJoo^InnJoo Pro 2^InnJoo Pro 2^March 2017
+InnJoo^InnJoo 3^InnJoo 3^January 2017
+InnJoo^InnJoo Fire 3 Pro^InnJoo Fire 3 Pro^October 2016
+Intex^Intex Indie 5^Intex Indie 5^July 2018
+Intex^Intex Elyt E6^Intex Elyt E6^January 2018
+Intex^Intex Aqua Lions N1^Intex Aqua Lions N1^December 2017
+Intex^Intex Aqua Lions X1+^Intex Aqua Lions X1+^November 2017
+Intex^Intex Aqua Lions E3^Intex Aqua Lions E3^September 2017
+Intex^Intex Aqua Style III^Intex Aqua Style III^August 2017
+Intex^Intex Elyt Dual^Intex Elyt Dual^June 2017
+Intex^Intex Aqua A4^Intex Aqua A4^May 2017
+Intex^Intex Aqua Crystal+^Intex Aqua Crystal+^May 2017
+Intex^Intex Aqua Lions 4G^Intex Aqua Lions 4G^February 2017
+Intex^Intex Aqua Amaze+^Intex Aqua Amaze+^January 2017
+Intex^Intex Aqua S3^Intex Aqua S3^January 2017
+Intex^Intex Aqua Pro 4G^Intex Aqua Pro 4G^November 2016
+iOcean^iOcean M6752^iOcean M6752|Rock^November 2014
+itel^itel S21^itel S21^November 2017
+itel^itel S41^itel S41^September 2017
+IUNI^IUNI N1^IUNI N1^August 2015
+iVooMi^iVooMi i2^iVooMi i2^May 2018
+iVooMi^iVooMi Me 1^iVooMi Me 1^September 2017
+iVooMi^iVooMi Me4^iVooMi Me4^July 2017
+iVooMi^iVooMi Me5^iVooMi Me5^July 2017
+Jesy^Jesy J9S^Jesy J9S^September 2017
+Jiake^Jiake V12^Jiake V12^March 2015
+Jiake^Jiake V8^Jiake V8^November 2013
+Karbonn^Karbonn Aura Note 2^Karbonn Aura Note 2^July 2018
+Karbonn^Karbonn Aura Sleek Plus^Karbonn Aura Sleek Plus^May 2018
+Karbonn^Karbonn Frames S9^Karbonn Frames S9^May 2018
+Karbonn^Karbonn Aura 1^Karbonn Aura 1^March 2018
+Karbonn^Karbonn A9 Indian^Karbonn A9 Indian^February 2018
+Karbonn^Karbonn K9 Smart Eco^Karbonn K9 Smart Eco^January 2018
+Karbonn^Karbonn Titanium Frames S7^Karbonn Titanium Frames S7^January 2018
+Karbonn^Karbonn K9 Music 4G^Karbonn K9 Music 4G^December 2017
+Karbonn^Karbonn Titanium Jumbo 2^Karbonn Titanium Jumbo 2^December 2017
+Karbonn^Karbonn Yuva 2^Karbonn Yuva 2^November 2017
+Karbonn^Karbonn K9 Smart Selfie^Karbonn K9 Smart Selfie^October 2017
+Karbonn^Karbonn Titanium Jumbo^Karbonn Titanium Jumbo^October 2017
+Karbonn^Karbonn K9 Smart Grand^Karbonn K9 Smart Grand^September 2017
+Karbonn^Karbonn A1 Indian^Karbonn A1 Indian^September 2017
+Karbonn^Karbonn K9 Smart Yuva^Karbonn K9 Smart Yuva^August 2017
+Karbonn^Karbonn A40 Indian^Karbonn A40 Indian^July 2017
+Karbonn^Karbonn K9 Kavach 4G^Karbonn K9 Kavach 4G^July 2017
+Karbonn^Karbonn Aura 4G^Karbonn Aura 4G^May 2017
+Karbonn^Karbonn Aura Note 4G^Karbonn Aura Note 4G^February 2017
+Karbonn^Karbonn Titanium Vista 4G^Karbonn Titanium Vista 4G^January 2017
+Karbonn^Karbonn K9 Viraat 4G^Karbonn K9 Viraat 4G^November 2016
+Keecoo^Keecoo P11^Keecoo P11^December 2017
+Kenxinda^Kenxinda X7^Kenxinda X7^December 2017
+Kenxinda^Kenxinda S8^Kenxinda S8^November 2017
+Kenxinda^Kenxinda S6^Kenxinda S6^November 2017
+Kenxinda^Kenxinda S9^Kenxinda S9^November 2017
+Kenxinda^Kenxinda S7^Kenxinda S7^November 2017
+Kenxinda^Kenxinda X6^Kenxinda X6^October 2017
+Kenxinda^Kenxinda V5^Kenxinda V5^June 2017
+Kenxinda^Kenxinda V6^Kenxinda V6^June 2017
+Kenxinda^Kenxinda V8^Kenxinda V8^February 2017
+Kenxinda^Kenxinda R7^Kenxinda R7^January 2017
+Kenxinda^Kenxinda R6^Kenxinda R6^January 2017
+Kenxinda^Kenxinda Proofings W6^Kenxinda Proofings W6^June 2016
+Kenxinda^Kenxinda Proofings W9^Kenxinda Proofings W9^May 2016
+Kenxinda^Kenxinda V9^Kenxinda V9^April 2016
+Kenxinda^Kenxinda Proofings W8^Kenxinda Proofings W8^March 2016
+Kenxinda^Kenxinda V7^Kenxinda V7^March 2016
+Kenxinda^Kenxinda Proofings W5^Kenxinda Proofings W5|Kenxinda W5^February 2016
+Kenxinda^Kenxinda Proofings W7^Kenxinda Proofings W7^January 2016
+KingZone^KingZone S20^KingZone S20^May 2017
+KingZone^Kingzone S2^Kingzone S2^March 2016
+Koolnee^Koolnee Rainbow^Koolnee Rainbow^March 2018
+Koolnee^Koolnee K1 Trio^Koolnee K1 Trio^January 2018
+Koolnee^Koolnee K1^Koolnee K1^December 2017
+Landvo^Landvo V11^Landvo V11^May 2016
+Landvo^Landvo L200S^Landvo L200S^September 2014
+Landvo^Landvo L800S^Landvo L800S^January 2014
+Lava^Lava Z91^Lava Z91^April 2018
+Lava^Lava Z50^Lava Z50^March 2018
+Lava^Lava Z90^Lava Z90^October 2017
+Lava^Lava Z70^Lava Z70^October 2017
+Lava^Lava Z80^Lava Z80^October 2017
+Lava^Lava Z60^Lava Z60^September 2017
+Lava^Lava A97 2GB+^Lava A97 2GB+^August 2017
+Lava^Lava A97^Lava A97^April 2017
+Lava^Lava Z10^Lava Z10^March 2017
+Lava^Lava Z25^Lava Z25^March 2017
+Lava^Lava X41+^Lava X41+^February 2017
+Lava^Lava V2s^Lava V2s^September 2016
+Lava^Lava X81^Lava X81^June 2016
+Lava^Lava Pixel V2^Lava Pixel V2^April 2016
+Leagoo^Leagoo Power 2^Leagoo Power 2^August 2018
+Leagoo^Leagoo XRover^Leagoo XRover^August 2018
+Leagoo^Leagoo T8s^Leagoo T8s^July 2018
+Leagoo^Leagoo M9 Pro^Leagoo M9 Pro^March 2018
+Leagoo^Leagoo Power 5^Leagoo Power 5^March 2018
+Leagoo^Leagoo S9^Leagoo S9^February 2018
+Leagoo^Leagoo M9^Leagoo M9^December 2017
+Leagoo^Leagoo Z6^Leagoo Z6^December 2017
+Leagoo^Leagoo T5c^Leagoo T5c^November 2017
+Leagoo^Leagoo S8 Pro^Leagoo S8 Pro^September 2017
+Leagoo^Leagoo Z7^Leagoo Z7^September 2017
+Leagoo^Leagoo S8^Leagoo S8|Kiicaa s8^September 2017
+Leagoo^Leagoo KIICAA Mix^Leagoo KIICAA Mix^August 2017
+Leagoo^Leagoo KIICAA Power^Leagoo KIICAA Power^July 2017
+Leagoo^Leagoo T5^Leagoo T5^June 2017
+Leagoo^Leagoo M7^Leagoo M7^April 2017
+Leagoo^Leagoo Shark 5000^Leagoo Shark 5000^March 2017
+Leagoo^Leagoo T10^Leagoo T10^November 2016
+Leagoo^Leagoo M8^Leagoo M8^November 2016
+Leagoo^Leagoo M5 Plus^Leagoo M5 Plus^October 2016
+Leagoo^Leagoo Venture 1^Leagoo Venture 1|Venture^September 2016
+Leagoo^Leagoo T1 Plus^Leagoo T1 Plus^July 2016
+Leagoo^Leagoo M5^Leagoo M5^July 2016
+Leagoo^Leagoo Z5^Leagoo Z5^June 2016
+Leagoo^Leagoo T1^Leagoo T1^June 2016
+Leagoo^Leagoo Lead 6^Leagoo Lead 6^November 2015
+Leagoo^Leagoo Elite 1^Leagoo Elite 1^July 2015
+Leagoo^Leagoo Lead 5^Leagoo Lead 5^October 2014
+Leagoo^Leagoo Elite 3^Leagoo Elite 3^September 2014
+LeEco (LeTV)^LeEco Le 3 Pro^LeEco Le 3 Pro|X651|Le Pro 3^April 2017
+LeEco (LeTV)^LeEco Le Max 3^LeEco Le Max 3|x850^April 2017
+LeEco (LeTV)^LeEco Le Pro 3 X722^LeEco Le Pro 3 X722^September 2016
+LeEco (LeTV)^Leeco Le 2 International^Leeco Le 2 International^September 2016
+LeEco (LeTV)^Leeco Cool1^Leeco Cool1|Cool 1|Cool1 Dual^August 2016
+LeEco (LeTV)^LeEco Le S3 (X622)^LeEco Le S3 (X622)^July 2016
+LeEco (LeTV)^LeEco Le 2^LeEco Le 2^June 2016
+LeEco (LeTV)^LeEco Le 2 X620^LeEco Le 2 X620|LeTV Le 2 X620^April 2016
+LeEco (LeTV)^LeEco Le Max 2^LeEco Le Max 2^April 2016
+LeEco (LeTV)^LeTV Le 1s^LeTV Le 1s^June 2015
+LeEco (LeTV)^LeTV Le1 X600^LeTV Le1 X600|One|Le S^September 2014
+Lenovo^Lenovo A5^Lenovo A5^June 2018
+Lenovo^Lenovo K5 Note (2018)^Lenovo K5 Note (2018)^June 2018
+Lenovo^Lenovo Z5^Lenovo Z5^June 2018
+Lenovo^Lenovo K5 Play^Lenovo K5 Play^March 2018
+Lenovo^Lenovo S5^Lenovo S5^March 2018
+Lenovo^Lenovo K5 2018^Lenovo K5 2018^March 2018
+Lenovo^Lenovo K320t^Lenovo K320t^January 2018
+Lenovo^Lenovo K8 Plus^Lenovo K8 Plus^September 2017
+Lenovo^Lenovo K8 Note^Lenovo K8 Note^August 2017
+Lenovo^Lenovo Moto G5^Lenovo Moto G5^February 2017
+Lenovo^Lenovo Moto G5 Plus^Lenovo Moto G5 Plus^February 2017
+Lenovo^Lenovo K6 Power^Lenovo K6 Power^January 2017
+Lenovo^Lenovo K10^Lenovo K10|K10e70^October 2016
+Lenovo^Lenovo A7700^Lenovo A7700^October 2016
+Lenovo^Moto Z Play^Moto Z Play^September 2016
+Lenovo^Lenovo Vibe P2^Lenovo Vibe P2|P2c72|lenovo p2^September 2016
+Lenovo^Lenovo K6 Note^Lenovo K6 Note^September 2016
+Lenovo^Lenovo Vibe B^Lenovo Vibe B^August 2016
+Lenovo^Lenovo Vibe C2^Lenovo Vibe C2^July 2016
+Lenovo^Lenovo Phab 2^Lenovo Phab 2^June 2016
+Lenovo^Moto Z^Moto Z^June 2016
+Lenovo^Lenovo Phab 2 Plus^Lenovo Phab 2 Plus^June 2016
+Lenovo^Moto Z Force^Moto Z Force|Motorola Moto Z Force^June 2016
+Lenovo^Lenovo Vibe P1 Turbo^Lenovo Vibe P1 Turbo|P1a42^June 2016
+Lenovo^Lenovo K5^Lenovo K5^February 2016
+Lenovo^Lenovo K4 Note^Lenovo K4 Note|Lenovo Vibe K4 Note^January 2016
+Lenovo^Lenovo A816^Lenovo A816^November 2015
+Lenovo^Lenovo Vibe P1^Lenovo Vibe P1^September 2015
+Lenovo^Lenovo Gold Fighter S8 A5600^Lenovo Gold Fighter S8 A5600^March 2015
+Lenovo^Lenovo A6600^Lenovo A6600^March 2015
+Lenovo^Lenovo K3 Note^Lenovo K3 Note^March 2015
+Lenovo^Lenovo Vibe Shot Z90^Lenovo Vibe Shot Z90^March 2015
+Lenovo^Lenovo S8 A7600^Lenovo S8 A7600^January 2015
+Lenovo^Lenovo K8 K80m^Lenovo K8 K80m^January 2015
+Lenovo^Lenovo A916^Lenovo A916^November 2014
+Lenovo^Lenovo K920 Vibe Z2^Lenovo K920 Vibe Z2^September 2014
+Lenovo^Lenovo S939^Lenovo S939^May 2014
+Lenovo^Lenovo A889^Lenovo A889|^May 2014
+Lenovo^Lenovo A560^Lenovo A560^April 2014
+Lenovo^Lenovo S850^Lenovo S850|^February 2014
+Lenovo^Lenovo S660^Lenovo S660^February 2014
+Lenovo^Lenovo A880^Lenovo A880^January 2014
+Lenovo^Lenovo P780^Lenovo P780|^June 2013
+Leotec^Leotec Itrium Y150^Leotec Itrium Y150^September 2015
+LeRee^LeRee Le 3^LeRee Le 3^June 2017
+LG^LG G7+ ThinQ^LG G7+ ThinQ|G7Plus ThinQ|G7 Plus ThinQ|LM-G710EAW|G710EAW^August 2018
+LG^LG Q7^LG Q7^May 2018
+LG^LG K9^LG K9|LM-X210NMW|X210NMW^May 2018
+LG^LG G7 ThinQ^LG G7 ThinQ|LM-G710|G710^May 2018
+LG^LG K11^LG K11|LM-X410EOW|X410EOW^March 2018
+LG^LG V30S^LG V30S|V30S ThinQ^February 2018
+LG^LG K7i^LG K7i|LG-X230I|X230I|Mosquito Away^October 2017
+LG^LG V30^LG V30^August 2017
+LG^LG Q6a^LG Q6a^August 2017
+LG^LG Q6^LG Q6|LG-M700A|M700A^July 2017
+LG^LG Q8^LG Q8|LG-H970|H970^July 2017
+LG^LG X Power 2^LG X Power 2^March 2017
+LG^LG G6^LG G6|LGM-G600K|LGM-G600L|LGM-G600S^February 2017
+LG^LG K10 (2017)^LG K10 (2017)|LG-M250|M250^January 2017
+LG^LG K8 (2017)^LG K8 (2017)^January 2017
+LG^LG Stylus 3^LG Stylus 3|LG-M400DK|M400DK^December 2016
+LG^LG K4 (2017)^LG K4 (2017)|LGM160^December 2016
+LG^LG X Fast^LG X Fast|LG-K600Y|K600Y^August 2016
+LG^LG X Power^LG X Power^June 2016
+LG^LG G5 SE^LG G5 SE|G5SE|LG-H840|H840^May 2016
+LG^LG X cam^LG X cam|LG-K580|K580^April 2016
+LG^LG K5^LG K5^March 2016
+LG^LG K8^LG K8|LG-K350N|K350N^February 2016
+LG^LG Stylus 2^LG Stylus 2|Stylus2|LG-F720K|F720K|LG-F720L|F720L|LG-F720S|F720S^February 2016
+LG^LG G5^LG G5^February 2016
+LG^LG K7^LG K7^January 2016
+LG^LG K4^LG K4|LG-K130E|K130E|K4 4G^January 2016
+LG^LG K10^LG K10|LG-K420N|K420N|LG-K430ds|K430ds|K10 4G^January 2016
+LG^LG Wine Smart^LG Wine Smart|LG-F480K|F480K|LG-F480L|F480L|LG-F480S|F480S^November 2015
+LG^LG Nexus 5X^LG Nexus 5X|Google Nexus 5X|LG-H790|H790|LG-H791|H791^September 2015
+LG^LG G4 Stylus^LG G4 Stylus|LS770|G4 Stylus 4G^April 2015
+LG^LG Spirit^LG Spirit^February 2015
+LG^LG L60^LG L60^August 2014
+LG^LG G3^LG G3|G3 D850|G3 D855|G3 LS990|F400 S^May 2014
+LG^LG L80 Dual^LG L80 Dual|L80|^May 2014
+LG^LG L70 Dual^LG L70 Dual^February 2014
+LG^LG L90^LG L90|L Series III L90|D405|D405N^February 2014
+Lyf^Lyf C459^Lyf C459^July 2017
+Lyf^Lyf Water 7S^Lyf Water 7S^January 2017
+Lyf^Lyf Water 8^Lyf Water 8^July 2016
+Lyf^Lyf Earth 1^Lyf Earth 1^January 2016
+M-Horse^M-Horse Pure 3^M-Horse Pure 3^February 2018
+M-Horse^M-Horse Pure 2^M-Horse Pure 2^December 2017
+M-Horse^M-Horse Power 2^M-Horse Power 2^October 2017
+M-Horse^M-Horse Pure 1^M-Horse Pure 1^October 2017
+M-Net^M-Net Power 1^M-Net Power 1^August 2017
+Maze^Maze Comet^Maze Comet^November 2017
+Maze^Maze Alpha X^Maze Alpha X^October 2017
+Maze^Maze Alpha^Maze Alpha^June 2017
+Meiigoo^Meiigoo Note 8^Meiigoo Note 8^December 2017
+Meiigoo^Meiigoo S8^Meiigoo S8^November 2017
+Meiigoo^Meiigoo M1^Meiigoo M1^June 2017
+Meitu^Meitu M6s^Meitu M6s^December 2016
+Meitu^Meitu M6^Meitu M6^October 2016
+Meizu^Meizu 16th^Meizu 16th|M1882^August 2018
+Meizu^Meizu 16th Plus^Meizu 16th Plus|M18982^August 2018
+Meizu^Meizu M6T^Meizu M6T|Meilan 6T|Blue Charm 6T|M811H|M811Q^May 2018
+Meizu^Meizu M15^Meizu M15|Meizu 15 Lite|M871Q^April 2018
+Meizu^Meizu 15^Meizu 15|M881Q^April 2018
+Meizu^Meizu 15 Plus^Meizu 15 Plus|M891Q^April 2018
+Meizu^Meizu E3^Meizu E3^March 2018
+Meizu^Meizu M6S^Meizu M6S|Meizu S6^January 2018
+Meizu^Meizu M6^Meizu M6|Meilan 6|Blue Charm 6^September 2017
+Meizu^Meizu M6 Note^Meizu M6 Note|Blue Charm Note 6^August 2017
+Meizu^Meizu Pro 7^Meizu Pro 7^July 2017
+Meizu^Meizu Pro 7 Plus^Meizu Pro 7 Plus^July 2017
+Meizu^Meizu A5^Meizu A5|Meilan A5|Blue Charm A5^July 2017
+Meizu^Meizu M5c^Meizu M5c|Meilan 5c|Blue Charm 5c^May 2017
+Meizu^Meizu M E2^Meizu M E2|Blue Charm E2|m3X|Meilan E2|E2|ME2^April 2017
+Meizu^Meizu M5s^Meizu M5s|Meilan 5s|Blue Charm 5s^February 2017
+Meizu^Meizu M5 note^Meizu M5 note|Meilan Note 5|Blue Charm Note 5^December 2016
+Meizu^Meizu Pro 6 Plus^Meizu Pro 6 Plus^November 2016
+Meizu^Meizu X^Meizu X|Blue Charm X|m3X|Meilan X^November 2016
+Meizu^Meizu Pro 6s^Meizu Pro 6s^November 2016
+Meizu^Meizu M5^Meizu M5|Meilan 5|Blue Charm 5^October 2016
+Meizu^Meizu U10^Meizu U10|meilan u10|u10^September 2016
+Meizu^Meizu M3 Max^Meizu M3 Max^September 2016
+Meizu^Meizu U20^Meizu U20^August 2016
+Meizu^Meizu M3E^Meizu M3E^August 2016
+Meizu^Meizu m3s^Meizu m3s^June 2016
+Meizu^Meizu m3^Meizu m3^April 2016
+Meizu^Meizu Pro 6^Meizu Pro 6^April 2016
+Meizu^Meizu M3 Note^Meizu M3 Note^April 2016
+Meizu^Meizu MX6^Meizu MX6^February 2016
+Meizu^Meizu Pro 5^Meizu Pro 5|MX5 Pro^September 2015
+Micromax^Micromax Bharat 5 Pro^Micromax Bharat 5 Pro^May 2018
+Micromax^Micromax Canvas 1^Micromax Canvas 1^February 2018
+Micromax^Micromax Bharat 5 Plus^Micromax Bharat 5 Plus^January 2018
+Micromax^Micromax Evok Dual Note^Micromax Evok Dual Note^December 2017
+Micromax^Micromax Canvas Infinity Pro^Micromax Canvas Infinity Pro^December 2017
+Micromax^Micromax Bharat 4 Q440^Micromax Bharat 4 Q440|Bharat4|Q440^December 2017
+Micromax^Micromax Bharat 2 Plus^Micromax Bharat 2 Plus|Bharat2 Plus|Bharat 2+|Bharat2+^November 2017
+Micromax^Micromax Spark 4G Prime^Micromax Spark 4G Prime^November 2017
+Micromax^Micromax Bharat 3^Micromax Bharat 3|Bharat3|Q437^September 2017
+Micromax^Micromax Canvas Infinity^Micromax Canvas Infinity^September 2017
+Micromax^Micromax Selfie 2^Micromax Selfie 2^August 2017
+Micromax^Micromax Selfie 3^Micromax Selfie 3|Selfie3|E460^August 2017
+Micromax^Micromax Vdeo 4^Micromax Vdeo 4^June 2017
+Micromax^Micromax Vdeo 3^Micromax Vdeo 3^June 2017
+Micromax^Micromax Bharat 2 Q402^Micromax Bharat 2 Q402|Bharat2|Q402^May 2017
+Micromax^Micromax Canvas 2^Micromax Canvas 2^May 2017
+Micromax^Micromax Vdeo 2^Micromax Vdeo 2^May 2017
+Micromax^Micromax Dual 5^Micromax Dual 5^April 2017
+Micromax^Micromax Dual 4^Micromax Dual 4^March 2017
+Micromax^Micromax Spark Vdeo^Micromax Spark Vdeo^March 2017
+Micromax^Micromax Vdeo 5^Micromax Vdeo 5^February 2017
+Micromax^Micromax Canvas Mega 4G Q417^Micromax Canvas Mega 4G Q417^December 2016
+Micromax^Micromax Canvas 5 Lite^Micromax Canvas 5 Lite^September 2016
+Micromax^Micromax Canvas 6^Micromax Canvas 6^August 2016
+Micromax^Micromax Canvas Unite 4 Plus^Micromax Canvas Unite 4 Plus^July 2016
+Micromax^Micromax Bolt Selfie Q424^Micromax Bolt Selfie Q424^June 2016
+Micromax^Micromax Canvas 6 Pro^Micromax Canvas 6 Pro|Canvas 6Pro|E484^April 2016
+Micromax^Micromax Canvas Spark 3 Q385^Micromax Canvas Spark 3 Q385^April 2016
+Micromax^Micromax Canvas 5^Micromax Canvas 5^November 2015
+Microsoft^Microsoft Lumia 650^Microsoft Lumia 650^February 2016
+Microsoft^Microsoft Lumia 550^Microsoft Lumia 550^October 2015
+Microsoft^Microsoft Lumia 640^Microsoft Lumia 640^March 2015
+Microsoft^Microsoft Lumia 640 XL^Microsoft Lumia 640 XL^March 2015
+Microsoft^Microsoft Lumia 435 Dual SIM^Microsoft Lumia 435 Dual SIM^January 2015
+Mijue^Mijue M690+^Mijue M690+^June 2015
+Mijue^Mijue M580^Mijue M580^March 2015
+Motorola^Motorola Moto Z3 Play^Motorola Moto Z3 Play^June 2018
+Motorola^Motorola Moto G6^Motorola Moto G6^April 2018
+Motorola^Motorola Moto G6 Plus^Motorola Moto G6 Plus^April 2018
+Motorola^Motorola Moto E5 Plus^Motorola Moto E5 Plus|Moto E Plus (5th gen.)|Moto E5+^April 2018
+Motorola^Motorola Moto E5^Motorola Moto E5^April 2018
+Motorola^Motorola Moto Green Pomelo^Motorola Moto Green Pomelo^October 2017
+Motorola^Motorola Moto Z2 Force Edition^Motorola Moto Z2 Force Edition^August 2017
+Motorola^Motorola Moto X4^Motorola Moto X4^August 2017
+Motorola^Motorola Moto G5s^Motorola Moto G5s|Moto G5 Special Edition|Moto G (5th gen.) Special Edit|XT1795|XT1797^August 2017
+Motorola^Motorola Moto G5s Plus^Motorola Moto G5s Plus|Moto G Plus (5th gen.) Special|XT1803|XT1605|XT1606^August 2017
+Motorola^Motorola Moto Z2 Play^Motorola Moto Z2 Play^June 2017
+Motorola^Motorola Moto C^Motorola Moto C^June 2017
+Motorola^Motorola Moto C Plus^Motorola Moto C Plus^June 2017
+Motorola^Motorola Moto E4^Motorola Moto E4|Moto E (4th gen.)|XT1768^June 2017
+Motorola^Motorola Moto E4 Plus^Motorola Moto E4 Plus|Moto E (4th gen.) Plus|Moto E4+^June 2017
+Motorola^Motorola Moto M^Motorola Moto M^November 2016
+Motorola^Motorola Moto E3^Motorola Moto E3|Motorola Moto E3^August 2016
+Motorola^Motorola Moto G4 Play^Motorola Moto G4 Play|XT1607|XT1609^May 2016
+Motorola^Moto G4 Plus^Moto G4 Plus^May 2016
+Motorola^Moto G4^Moto G4^May 2016
+Motorola^Motorola Moto X Force^Motorola Moto X Force^November 2015
+Motorola^Motorola Moto G (3rd gen)^Motorola Moto G (3rd gen)|Moto G (2015)|XT1540|XT1550|Moto G3^July 2015
+Motorola^Motorola Moto X Play^Motorola Moto X Play|XT1562|XT1563^July 2015
+Motorola^Motorola Moto E^Motorola Moto E|XT1021|XT1022^February 2015
+Motorola^Motorola Moto E (2nd Gen) 4G^Motorola Moto E (2nd Gen) 4G|Moto E2^January 2015
+Motorola^Motorola Moto E (2nd Gen)^Motorola Moto E (2nd Gen)|XT1505|XT1511|Moto E2^December 2014
+Motorola^Motorola Moto G 4G^Motorola Moto G 4G|XT1045|Moto G 4G|Peregrine^May 2014
+Multilaser^Multilaser MS80^Multilaser MS80|Multilaser NB723|Multilaser NB722^June 2017
+MyWigo^MyWigo Magnum 2^MyWigo Magnum 2^October 2015
+NO.1^No.1 X3^No.1 X3^April 2016
+Nokia^Nokia 2.1^Nokia 2.1|2 (2018)|2 2018|TA-1080|TA-1092^May 2018
+Nokia^Nokia 3.1^Nokia 3.1|3 (2018)|3 2018|3.1 Android One^May 2018
+Nokia^Nokia 5.1^Nokia 5.1|5 (2018)|5 2018|5.1 Android One|TA-1061^May 2018
+Nokia^Nokia 6.1 Plus^Nokia 6.1 Plus|Nokia X6|Nokia 6.1 Plus China^May 2018
+Nokia^Nokia 1^Nokia 1^February 2018
+Nokia^Nokia 7 Plus^Nokia 7 Plus|7Plus|7+^February 2018
+Nokia^Nokia 8 Sirocco^Nokia 8 Sirocco|TA-1005^February 2018
+Nokia^Nokia 6 (2018)^Nokia 6 (2018)|6 2nd-generation|6 (2nd Gen)|6 (2018)|Nokia 6.1^January 2018
+Nokia^Nokia 7^Nokia 7^November 2017
+Nokia^Nokia 2^Nokia 2|TA-1029|TA-1035^October 2017
+Nokia^Nokia 8^Nokia 8^August 2017
+Nokia^Nokia 3^Nokia 3^February 2017
+Nokia^Nokia 5^Nokia 5^February 2017
+Nokia^Nokia 6^Nokia 6^January 2017
+Nokia^Nokia Lumia 630^Nokia Lumia 630^March 2016
+Nokia^Nokia Lumia 830^Nokia Lumia 830^September 2014
+Nokia^Nokia Lumia 530^Nokia Lumia 530|RM-1017|RM-1019 Dual^July 2014
+Nokia^Nokia Lumia 635^Nokia Lumia 635|^April 2014
+Nokia^Nokia Lumia 930^Nokia Lumia 930^April 2014
+Nokia^Nokia Lumia 520^Nokia Lumia 520^February 2013
+Nomu^Nomu M6^Nomu M6^February 2018
+Nomu^Nomu T18^Nomu T18^December 2017
+Nomu^Nomu S10 Pro^Nomu S10 Pro^September 2017
+Nomu^Nomu S30 Mini^Nomu S30 Mini^June 2017
+Nomu^Nomu S10^Nomu S10^October 2016
+Nomu^Nomu S30^Nomu S30^October 2016
+Nubia^Nubia Red Magic^Nubia Red Magic|Nubia Red Devil^April 2018
+Nubia^Nubia Z18 Mini^Nubia Z18 Mini^April 2018
+Nubia^nubia V18^nubia V18^March 2018
+Nubia^Nubia N3^Nubia N3^March 2018
+Nubia^Nubia Z17 MiniS^Nubia Z17 MiniS^October 2017
+Nubia^Nubia Z17S^Nubia Z17S^October 2017
+Nubia^nubia Z17 Lite^nubia Z17 Lite^August 2017
+Nubia^Nubia Z17^Nubia Z17|NX563J^June 2017
+Nubia^Nubia Z17 Mini^Nubia Z17 Mini^March 2017
+Nubia^nubia N2^nubia N2^March 2017
+Nubia^Nubia M2 Lite^Nubia M2 Lite^March 2017
+Nubia^Nubia M2^Nubia M2^March 2017
+Nubia^Nubia N1 Lite^Nubia N1 Lite^February 2017
+Nubia^ZTE Nubia Z11 mini S^ZTE Nubia Z11 mini S|Z11 mini s|NX549J^October 2016
+Nubia^ZTE Nubia N1^ZTE Nubia N1^August 2016
+Nubia^ZTE Nubia Z11^ZTE Nubia Z11^June 2016
+Nubia^ZTE Nubia Z11 Max^ZTE Nubia Z11 Max^June 2016
+Nubia^ZTE Nubia Z11 mini^ZTE Nubia Z11 mini^April 2016
+Nubia^ZTE Nubia My Prague^ZTE Nubia My Prague^June 2015
+Nubia^ZTE Nubia Z9^ZTE Nubia Z9^May 2015
+Nubia^ZTE Nubia Z9 Max^ZTE Nubia Z9 Max^March 2015
+Nubia^ZTE Nubia Z5S mini^ZTE Nubia Z5S mini|^November 2013
+OnePlus^OnePlus 6^OnePlus 6|A6003^May 2018
+OnePlus^OnePlus 5T^OnePlus 5T|A5010^November 2017
+OnePlus^OnePlus 5^OnePlus 5^June 2017
+OnePlus^OnePlus 3T^OnePlus 3T|A3010^November 2016
+OnePlus^OnePlus 3^OnePlus 3^May 2016
+OnePlus^OnePlus X^OnePlus X^October 2015
+OnePlus^OnePlus One^OnePlus One^April 2014
+Oppo^Oppo R17 Pro^Oppo R17 Pro^August 2018
+Oppo^Oppo F9 Pro^Oppo F9 Pro^August 2018
+Oppo^Oppo A3s^Oppo A3s^July 2018
+Oppo^Oppo Find X^Oppo Find X|PAFM00|Oppo Find X Standard Edition^June 2018
+Oppo^Oppo F7^Oppo F7^April 2018
+Oppo^Oppo A83 Pro^Oppo A83 Pro^April 2018
+Oppo^Oppo A1^Oppo A1^March 2018
+Oppo^Oppo R15^Oppo R15|PACM00^March 2018
+Oppo^Oppo R15 Pro^Oppo R15 Pro|PACM00|OPPO R15 PRO|OPPO R15 Dream Mirror^March 2018
+Oppo^Oppo A71 (2018)^Oppo A71 (2018)^February 2018
+Oppo^Oppo A83^Oppo A83^January 2018
+Oppo^Oppo A73^Oppo A73^December 2017
+Oppo^Oppo A79^Oppo A79^November 2017
+Oppo^Oppo R11s Plus^Oppo R11s Plus^November 2017
+Oppo^Oppo R11s^Oppo R11s^November 2017
+Oppo^Oppo F3 Plus^Oppo F3 Plus^November 2017
+Oppo^Oppo R11^Oppo R11^June 2017
+Oppo^Oppo R11 Plus^Oppo R11 Plus^June 2017
+Oppo^Oppo A77^Oppo A77^May 2017
+Oppo^Oppo F3^Oppo F3^May 2017
+Oppo^Oppo F1s^Oppo F1s^February 2017
+Oppo^Oppo A57^Oppo A57^November 2016
+Oppo^Oppo R9s^Oppo R9s^October 2016
+Oppo^Oppo R9s Plus^Oppo R9s Plus^October 2016
+Oppo^Oppo A59S^Oppo A59S^September 2016
+Oppo^Oppo A37^Oppo A37^June 2016
+Oppo^Oppo R9 Plus^Oppo R9 Plus|R9 Plusm|R9 Plustm^March 2016
+Oppo^Oppo R9^Oppo R9|R9m|R9tm^March 2016
+Oppo^Oppo F1 Plus^Oppo F1 Plus^March 2016
+Oppo^Oppo Neo 7^Oppo Neo 7^November 2015
+Oppo^Oppo F1^Oppo F1^November 2015
+Oukitel^Oukitel K8^Oukitel K8^July 2018
+Oukitel^Oukitel K7^Oukitel K7^May 2018
+Oukitel^Oukitel OK6000^Oukitel OK6000^May 2018
+Oukitel^Oukitel WP5000^Oukitel WP5000^March 2018
+Oukitel^Oukitel U18^Oukitel U18^January 2018
+Oukitel^Oukitel K10^Oukitel K10^January 2018
+Oukitel^Oukitel K5^Oukitel K5^December 2017
+Oukitel^Oukitel K6^Oukitel K6^December 2017
+Oukitel^Oukitel K8000^Oukitel K8000^November 2017
+Oukitel^Oukitel Mix 2^Oukitel Mix 2^October 2017
+Oukitel^Oukitel K5000^Oukitel K5000^September 2017
+Oukitel^Oukitel C8^Oukitel C8^September 2017
+Oukitel^Oukitel K3^Oukitel K3^August 2017
+Oukitel^Oukitel K10000 Pro^Oukitel K10000 Pro^May 2017
+Oukitel^Oukitel U22^Oukitel U22^May 2017
+Oukitel^Oukitel U11 Plus^Oukitel U11 Plus^May 2017
+Oukitel^Oukitel K6000 Plus^Oukitel K6000 Plus^March 2017
+Oukitel^Oukitel K10000 Max^Oukitel K10000 Max^March 2017
+Oukitel^Oukitel U16^Oukitel U16^February 2017
+Oukitel^Oukitel C5^Oukitel C5^January 2017
+Oukitel^Oukitel C5 Pro^Oukitel C5 Pro^December 2016
+Oukitel^Oukitel U20 Plus^Oukitel U20 Plus^November 2016
+Oukitel^Oukitel U15 Pro^Oukitel U15 Pro^October 2016
+Oukitel^Oukitel K7000^Oukitel K7000^September 2016
+Oukitel^Oukitel C4^Oukitel C4^August 2016
+Oukitel^Oukitel U7 Plus^Oukitel U7 Plus^July 2016
+Oukitel^Oukitel U13^Oukitel U13^July 2016
+Oukitel^Oukitel K6000 Pro^Oukitel K6000 Pro^April 2016
+Oukitel^Oukitel C2^Oukitel C2^February 2016
+Oukitel^Oukitel K10000^Oukitel K10000^December 2015
+Oukitel^Oukitel U2^Oukitel U2^August 2015
+Oukitel^Oukitel K4000 PRO^Oukitel K4000 PRO^August 2015
+Oukitel^Oukitel U7^Oukitel U7^June 2015
+Oukitel^Oukitel U8 Universe Tap^Oukitel U8 Universe Tap^February 2015
+Panasonic^Panasonic P95^Panasonic P95^May 2018
+Panasonic^Panasonic P66 Mega^Panasonic P66 Mega^April 2018
+Panasonic^Panasonic Eluga Ray 550^Panasonic Eluga Ray 550^April 2018
+Panasonic^Panasonic P100^Panasonic P100^February 2018
+Panasonic^Panasonic Eluga I9^Panasonic Eluga I9^December 2017
+Panasonic^Panasonic Eluga I5^Panasonic Eluga I5^December 2017
+Panasonic^Panasonic P99^Panasonic P99^November 2017
+Panasonic^Panasonic P91^Panasonic P91^November 2017
+Panasonic^Panasonic Eluga A4^Panasonic Eluga A4^November 2017
+Panasonic^Panasonic Eluga Ray 500^Panasonic Eluga Ray 500^September 2017
+Panasonic^Panasonic Eluga Ray 700^Panasonic Eluga Ray 700^September 2017
+Panasonic^Panasonic Eluga I2 Activ^Panasonic Eluga I2 Activ^August 2017
+Panasonic^Panasonic Eluga A3^Panasonic Eluga A3^August 2017
+Panasonic^Panasonic Eluga A3 Pro^Panasonic Eluga A3 Pro^August 2017
+Panasonic^Panasonic P71^Panasonic P71^July 2017
+Panasonic^Panasonic P55 Max^Panasonic P55 Max^July 2017
+Panasonic^Panasonic Eluga I3 Mega^Panasonic Eluga I3 Mega^June 2017
+Panasonic^Panasonic Eluga I4^Panasonic Eluga I4^June 2017
+Panasonic^Panasonic Eluga Ray Max^Panasonic Eluga Ray Max^April 2017
+Panasonic^Panasonic Eluga Ray^Panasonic Eluga Ray^March 2017
+Panasonic^Panasonic P88^Panasonic P88^December 2016
+Panasonic^Panasonic Eluga Prim^Panasonic Eluga Prim^December 2016
+Panasonic^Panasonic Eluga Arc 2^Panasonic Eluga Arc 2^August 2016
+Panasonic^Panasonic Eluga Note^Panasonic Eluga Note^August 2016
+Panasonic^Panasonic Eluga Ray X^Panasonic Eluga Ray X^August 2016
+Panasonic^Panasonic T50^Panasonic T50^July 2016
+Panasonic^Panasonic Eluga L2^Panasonic Eluga L2^September 2015
+Panasonic^Panasonic T45 4G^Panasonic T45 4G^June 2015
+Philips^Philips Xenium X598^Philips Xenium X598^June 2018
+Phonemax^Phonemax Ace 1 Plus^Phonemax Ace 1 Plus^January 2018
+Phonemax^Phonemax Rocky 2^Phonemax Rocky 2^September 2017
+Pomp^Pomp C6S^Pomp C6S^April 2014
+Poptel^Poptel P8^Poptel P8^August 2018
+Poptel^Poptel P10^Poptel P10^August 2018
+Poptel^Poptel P9000 Max^Poptel P9000 Max^August 2018
+PPTV^PPTV King 7S^PPTV King 7S^March 2016
+PPTV^PPTV King 7^PPTV King 7^September 2015
+Qiku^Qiku 360 N5s^Qiku 360 N5s^May 2017
+Razer^Razer Phone^Razer Phone^November 2017
+Samsung^Samsung Galaxy Note 9^Samsung Galaxy Note 9^August 2018
+Samsung^Samsung Galaxy On6^Samsung Galaxy On6|SM-J600G|J600G^July 2018
+Samsung^Samsung Galaxy A8 Star^Samsung Galaxy A8 Star|SM-G8850Z|G8850Z^July 2018
+Samsung^Samsung Galaxy J8^Samsung Galaxy J8|SM-J810G|J810G^June 2018
+Samsung^Samsung Galaxy J7 Duo (2018)^Samsung Galaxy J7 Duo (2018)|SM-J720F|J720F^June 2018
+Samsung^Samsung Galaxy A9 Star Lite^Samsung Galaxy A9 Star Lite^June 2018
+Samsung^Samsung Galaxy J4 (2018)^Samsung Galaxy J4 (2018)|SM-J400F|J400F^May 2018
+Samsung^Samsung Galaxy J6 (2018)^Samsung Galaxy J6 (2018)|SM-J600F|J600F|SM-J600G|J600G^May 2018
+Samsung^Samsung Galaxy A6 (2018)^Samsung Galaxy A6 (2018)|Galaxy A6 (2018)|SM-A600F|A600F^May 2018
+Samsung^Samsung Galaxy A6 Plus (2018)^Samsung Galaxy A6 Plus (2018)|Galaxy A6+ (2018)|SM-A605G|A605G^May 2018
+Samsung^Samsung Galaxy J7 Prime 2^Samsung Galaxy J7 Prime 2|Galaxy J7 Prime (2018)|SM-G611FF/DS|G611FF/DS^March 2018
+Samsung^Samsung Galaxy S9^Samsung Galaxy S9^February 2018
+Samsung^Samsung Galaxy S9+^Samsung Galaxy S9+^February 2018
+Samsung^Samsung Galaxy A8 (2018)^Samsung Galaxy A8 (2018)|Galaxy A5 (2018)|SM-A530F|A530F^January 2018
+Samsung^Samsung Galaxy J2 (2018)^Samsung Galaxy J2 (2018)|Galaxy J2 Pro (2018)|SM-J250F/DS|J250F/DS^January 2018
+Samsung^Samsung Galaxy A8+ (2018)^Samsung Galaxy A8+ (2018)|A730FD^December 2017
+Samsung^Samsung Galaxy C8^Samsung Galaxy C8|SM-C7100|C7100^October 2017
+Samsung^Samsung Galaxy J7+^Samsung Galaxy J7+^August 2017
+Samsung^Samsung Galaxy Note 8^Samsung Galaxy Note 8^August 2017
+Samsung^Samsung Galaxy Note FE^Samsung Galaxy Note FE^July 2017
+Samsung^Samsung Galaxy J7 Nxt^Samsung Galaxy J7 Nxt^July 2017
+Samsung^Samsung Galaxy J7 Max^Samsung Galaxy J7 Max^July 2017
+Samsung^Samsung Galaxy On Max^Samsung Galaxy On Max^July 2017
+Samsung^Samsung Galaxy J5 (2017)^Samsung Galaxy J5 (2017)|SM-J530F|J530F^June 2017
+Samsung^Samsung Galaxy J7 (2017)^Samsung Galaxy J7 (2017)|SM-J730F|J730F^June 2017
+Samsung^Samsung Galaxy J1 mini Prime^Samsung Galaxy J1 mini Prime|SM-J106F/DS|J106F/DS^June 2017
+Samsung^Samsung Galaxy J3 (2017)^Samsung Galaxy J3 (2017)|SM-J330FN|J330FN^May 2017
+Samsung^Samsung Z4^Samsung Z4|SM-Z400F/DS|Z400F/DS|SM-Z400Y|Z400Y^May 2017
+Samsung^Samsung Galaxy S8^Samsung Galaxy S8^March 2017
+Samsung^Samsung Galaxy S8+^Samsung Galaxy S8+^March 2017
+Samsung^Samsung Galaxy Xcover 4^Samsung Galaxy Xcover 4|SM-G390F|G390F^March 2017
+Samsung^Samsung Galaxy A7 (2017)^Samsung Galaxy A7 (2017)|SM-A720F|A720F^February 2017
+Samsung^Samsung Galaxy J2 Ace^Samsung Galaxy J2 Ace|SM-G532G|G532G^January 2017
+Samsung^Samsung Galaxy C7 Pro^Samsung Galaxy C7 Pro|SM-C7010Z|C7010Z^January 2017
+Samsung^Samsung Galaxy A3 (2017)^Samsung Galaxy A3 (2017)|SM-A320F|A320F^January 2017
+Samsung^Samsung Galaxy A5 (2017)^Samsung Galaxy A5 (2017)|SM-A520F|A520F^January 2017
+Samsung^Samsung Galaxy C9^Samsung Galaxy C9^October 2016
+Samsung^Samsung Grand Prime+^Samsung Grand Prime+|SM-G532|G532|Galaxy J2 Prime 2016^October 2016
+Samsung^Samsung Galaxy On Nxt^Samsung Galaxy On Nxt|Galaxy On7 Prime|SM-G610FZ|G610FZ^October 2016
+Samsung^Samsung Galaxy J7 Prime^Samsung Galaxy J7 Prime|SM-G610F|G610F|SM-G6100|G6100^September 2016
+Samsung^Samsung Galaxy J3 Pro^Samsung Galaxy J3 Pro|SM-J3119|J3119^June 2016
+Samsung^Samsung Galaxy C7^Samsung Galaxy C7|SM-C7000|C7000^May 2016
+Samsung^Samsung Galaxy C5^Samsung Galaxy C5|SM-C5000|C5000^May 2016
+Samsung^Samsung Galaxy J3 (2016)^Samsung Galaxy J3 (2016)|SM-J320F/DS|J320F/DS|SM-J320FN|J320FN^May 2016
+Samsung^Samsung Galaxy J7 (2016)^Samsung Galaxy J7 (2016)^March 2016
+Samsung^Samsung Galaxy J5 (2016)^Samsung Galaxy J5 (2016)|SM-J510F|SM-J510^March 2016
+Samsung^Samsung Galaxy S7^Samsung Galaxy S7^February 2016
+Samsung^Samsung Galaxy S7 Edge^Samsung Galaxy S7 Edge^February 2016
+Samsung^Samsung Galaxy J1 (2016)^Samsung Galaxy J1 (2016)|SM-J120F|J120F|SM-J120F/DS|J120F/DS|SM-J120G/DS|J120G/DS|SM-J120H|J120H|SM-J120H/DS|J120H/DS|SM-J120M|J120M^January 2016
+Samsung^Samsung Galaxy A3 (2016)^Samsung Galaxy A3 (2016)|SM-A310F|A310F^December 2015
+Samsung^Samsung Galaxy A7 (2016)^Samsung Galaxy A7 (2016)|SM-A7100|A7100^December 2015
+Samsung^Samsung Galaxy A5 (2016)^Samsung Galaxy A5 (2016)|SM-A510F|A510F^December 2015
+Samsung^Samsung Galaxy A9 (2016)^Samsung Galaxy A9 (2016)|SM-A9000|A9000^December 2015
+Samsung^Samsung Galaxy J3^Samsung Galaxy J3^November 2015
+Samsung^Samsung Galaxy On5^Samsung Galaxy On5^October 2015
+Samsung^Samsung Galaxy On7^Samsung Galaxy On7|SM-G600FY|G600FY|SM-G6000|G6000^October 2015
+Samsung^Samsung Galaxy J2^Samsung Galaxy J2|SM-J200F|SM-J200F/DS|SM-J200G/DD|SM-J200GU/DS|SM-J200H/DD|SM-J200H/DS|SM-J200Y^September 2015
+Samsung^Samsung Galaxy J7^Samsung Galaxy J7^September 2015
+Samsung^Samsung Galaxy J5^Samsung Galaxy J5^June 2015
+Samsung^Samsung Galaxy Xcover 3^Samsung Galaxy Xcover 3^March 2015
+Samsung^Samsung Galaxy J1 mini^Samsung Galaxy J1 mini|SM-J105B/DS|J105B/DS|SM-J105H|J105H^January 2015
+Samsung^Samsung Galaxy J1^Samsung Galaxy J1^January 2015
+Samsung^Samsung Galaxy Grand Neo Plus^Samsung Galaxy Grand Neo Plus^November 2014
+Samsung^Samsung Galaxy Core Prime^Samsung Galaxy Core Prime^November 2014
+Samsung^Samsung Galaxy A3^Samsung Galaxy A3|SM-A300F|SM-A300F/DS|SM-A300FU^October 2014
+Samsung^Samsung Galaxy Note 4^Samsung Galaxy Note 4|SM-N910S|Muscat^September 2014
+Samsung^Samsung Galaxy Grand Prime^Samsung Galaxy Grand Prime|SM-G530H|SM-G530F|SM-G530Y|SM-G530BT^September 2014
+Samsung^Samsung Galaxy Alpha^Samsung Galaxy Alpha|Galaxy Alfa|SM-G850A|SM-G850F|SM-G850T|SM-G850M|SM-G850Y|SM-G850FQ^August 2014
+Samsung^Samsung Galaxy S3 Neo^Samsung Galaxy S3 Neo^April 2014
+Samsung^Samsung Galaxy S5^Samsung Galaxy S5|SM-G900S|SM-G900F|SM-G900I|SM-G900K|SM-G900L|SM-G900M|SM-G900A|AM-G900T|SM-G900V|SM-G900R4|SM-G900P^February 2014
+Samsung^Samsung Galaxy Note 3 N9005 LTE^Samsung Galaxy Note 3 N9005 LTE|Galaxy Note 3 LTE|Galaxy Note III LTE|SM-N9005^September 2013
+Samsung^Samsung Galaxy S4 I9500^Samsung Galaxy S4 I9500|Galaxy S IV I9500|SPH-L720|SGH-I337|SCH-I545|SGH-M919|SCH-R970^March 2013
+Samsung^Samsung Galaxy Young^Samsung Galaxy Young|GT-S6310L|Galaxy Young Duos S6312|S6310|Samsung GALAXY YOUNG GT-S6310N^February 2013
+Samsung^Samsung Galaxy Grand Duos^Samsung Galaxy Grand Duos^December 2012
+Sharp^Sharp Z2^Sharp Z2^January 2018
+Sharp^Sharp Aquos S2^Sharp Aquos S2|Aquos S2 Standard Version|FS8010^August 2017
+Siswoo^Siswoo R8 Monster^Siswoo R8 Monster^January 2015
+Siswoo^Siswoo Cooper i7^Siswoo Cooper i7^September 2014
+Smartisan^Smartisan Nut R1^Smartisan Nut R1^May 2018
+Smartisan^Smartisan Nut Pro 2^Smartisan Nut Pro 2|Nut Pro2|Nuts Pro 2|Nuts Pro2|U3 Pro^November 2017
+Smartisan^Smartisan Pro^Smartisan Pro|U2 Pro 2017^May 2017
+Snopow^Snopow M10^Snopow M10^December 2017
+Sony^Sony Xperia XZ2 Premium^Sony Xperia XZ2 Premium^April 2018
+Sony^Sony Xperia XZ2 Compact^Sony Xperia XZ2 Compact^February 2018
+Sony^Sony Xperia XZ2^Sony Xperia XZ2^February 2018
+Sony^Sony Xperia XA2^Sony Xperia XA2^January 2018
+Sony^Sony Xperia L2^Sony Xperia L2|H3311|H3321|H4311|H4331^January 2018
+Sony^Sony Xperia XA2 Ultra^Sony Xperia XA2 Ultra|H3213|H3223|H4213|H4233^January 2018
+Sony^Sony Xperia R1^Sony Xperia R1^December 2017
+Sony^Sony Xperia R1 Plus^Sony Xperia R1 Plus^November 2017
+Sony^Sony Xperia XA1 Plus^Sony Xperia XA1 Plus|G3416^October 2017
+Sony^Sony Xperia XZ1 Compact^Sony Xperia XZ1 Compact^August 2017
+Sony^Sony Xperia XZ1^Sony Xperia XZ1^August 2017
+Sony^Sony Xperia L1^Sony Xperia L1|G3311|G3313^March 2017
+Sony^Sony Xperia XZs^Sony Xperia XZs|G8231|G8232^February 2017
+Sony^Sony Xperia XA1^Sony Xperia XA1|G3112|G3116^February 2017
+Sony^Sony Xperia XZ Premium^Sony Xperia XZ Premium^February 2017
+Sony^Sony Xperia XA1 Ultra^Sony Xperia XA1 Ultra|G3221|G3223^February 2017
+Sony^Sony Xperia XZ^Sony Xperia XZ^September 2016
+Sony^Sony Xperia X Compact^Sony Xperia X Compact^September 2016
+Sony^Xperia E5^Xperia E5^May 2016
+Sony^Sony Xperia XA Ultra^Sony Xperia XA Ultra|F3211|F3212|F3213|F3215|F3216^May 2016
+Sony^Sony Xperia XA^Sony Xperia XA|F3111|F3113|F3115^May 2016
+Sony^Sony Xperia X^Sony Xperia X^February 2016
+Sony^Sony Xperia X Performance^Sony Xperia X Performance|F8131|F8132^February 2016
+Sony^Sony Xperia Z5^Sony Xperia Z5|E6683|E6633^September 2015
+Sony^Sony Xperia Z5 Compact^Sony Xperia Z5 Compact|E5803|E5823^September 2015
+Sony^Sony Xperia Z5 Premium^Sony Xperia Z5 Premium^September 2015
+Sony^Sony Xperia M5^Sony Xperia M5|E5633|E5643|E5663^August 2015
+Sony^Sony Xperia E4^Sony Xperia E4|E2104|E2105^February 2015
+Sony^Sony Xperia E4g^Sony Xperia E4g|E2033|E2043^February 2015
+Sony^Sony Xperia Z1^Sony Xperia Z1|C6903|C6943|i1 Honami|C6906|C6902/L39h^September 2013
+Swipe^Swipe Elite Pro^Swipe Elite Pro^October 2017
+Swipe^Swipe Konnect Power^Swipe Konnect Power^August 2017
+Swipe^Swipe Elite Sense^Swipe Elite Sense^March 2017
+Swipe^Swipe Elite Max^Swipe Elite Max^December 2016
+Swipe^Swipe Elite 2 Plus^Swipe Elite 2 Plus^October 2016
+THL^Thl Knight 2^Thl Knight 2^January 2018
+THL^THL Knight 1^THL Knight 1^April 2017
+THL^THL T9 Plus^THL T9 Plus^December 2016
+THL^THL T9 Pro^THL T9 Pro^July 2016
+THL^THL T7^THL T7^January 2016
+THL^THL T6C^THL T6C^April 2015
+THL^THL A3^THL A3^April 2014
+THL^THL W100^THL W100^May 2013
+Timmy^Timmy M20 Pro^Timmy M20 Pro^October 2015
+TP-Link^TP-LINK Neffos C9A^TP-LINK Neffos C9A|TP706A^July 2018
+TP-Link^TP-LINK Neffos C7^TP-LINK Neffos C7|TP910A|TP910C^February 2018
+TP-Link^TP-LINK Neffos X1^TP-LINK Neffos X1^September 2016
+TP-Link^TP-LINK Neffos Y5^TP-LINK Neffos Y5^September 2016
+TP-Link^TP-LINK Neffos X1 Max^TP-LINK Neffos X1 Max^September 2016
+TP-Link^TP-LINK Neffos Y5L^TP-LINK Neffos Y5L^July 2016
+TP-Link^TP-LINK Neffos C5L^TP-LINK Neffos C5L|TP601A|TP601B|TP601C|TP601E^January 2016
+TP-Link^TP-LINK Neffos C5^TP-LINK Neffos C5|TP701A|TP701B|TP701C|TP701E^October 2015
+Uhans^Uhans I8^Uhans I8^October 2017
+Uhans^Uhans MX^Uhans MX|uhans mix^September 2017
+Uhans^Uhans Max 2^Uhans Max 2^September 2017
+Uhans^Uhans Note 4^Uhans Note 4^July 2017
+Uhans^Uhans A6^Uhans A6^April 2017
+Uhans^Uhans A101 S^Uhans A101 S^August 2016
+Uhans^Uhans S1^Uhans S1^April 2016
+Uhappy^Uhappy UP580^Uhappy UP580^July 2015
+Uhappy^Uhappy UP920^Uhappy UP920^January 2015
+Uhappy^Uhappy UP320^Uhappy UP320^October 2014
+Ulefone^Ulefone S1^Ulefone S1^July 2018
+Ulefone^Ulefone Armor 5^Ulefone Armor 5^July 2018
+Ulefone^Ulefone S9 Pro^Ulefone S9 Pro^July 2018
+Ulefone^Ulefone X^Ulefone X^May 2018
+Ulefone^Ulefone Power 5^Ulefone Power 5^April 2018
+Ulefone^Ulefone Armor X^Ulefone Armor X^February 2018
+Ulefone^Ulefone Power 3S^Ulefone Power 3S^January 2018
+Ulefone^Ulefone Power 3^Ulefone Power 3^December 2017
+Ulefone^Ulefone Mix 2^Ulefone Mix 2^November 2017
+Ulefone^Ulefone S7^Ulefone S7^October 2017
+Ulefone^Ulefone Mix^Ulefone Mix^September 2017
+Ulefone^Ulefone Armor 2^Ulefone Armor 2^August 2017
+Ulefone^Ulefone S8 Pro^Ulefone S8 Pro^July 2017
+Ulefone^Ulefone T1^Ulefone T1^July 2017
+Ulefone^Ulefone S8^Ulefone S8^June 2017
+Ulefone^Ulefone Power 2^Ulefone Power 2^March 2017
+Ulefone^Ulefone Gemini Pro^Ulefone Gemini Pro^February 2017
+Ulefone^Ulefone Gemini^Ulefone Gemini^January 2017
+Ulefone^Ulefone U008 Pro^Ulefone U008 Pro^December 2016
+Ulefone^Ulefone Armor^Ulefone Armor^November 2016
+Ulefone^Ulefone U007 Pro^Ulefone U007 Pro^September 2016
+Ulefone^Ulefone Metal^Ulefone Metal^August 2016
+Ulefone^Ulefone U007^Ulefone U007^June 2016
+Ulefone^Ulefone Future^Ulefone Future^April 2016
+Ulefone^Ulefone Vienna^Ulefone Vienna^January 2016
+Ulefone^Ulefone Power^Ulefone Power^August 2015
+Ulefone^Ulefone Be Pure^Ulefone Be Pure^March 2015
+Ulefone^Ulefone Be Touch^Ulefone Be Touch^December 2014
+Ulefone^Ulefone BE X^Ulefone BE X^November 2014
+UMi^UMi Z^UMi Z^December 2016
+UMi^UMi Diamond^UMi Diamond^October 2016
+UMi^UMi Plus Extreme^UMi Plus Extreme|UMi Plus E^October 2016
+UMi^UMi Plus^UMi Plus^September 2016
+UMi^UMi Max^UMi Max^August 2016
+UMi^Umi London^Umi London^June 2016
+UMi^UMi Super^UMi Super^May 2016
+UMi^UMI Zero^UMI Zero^October 2014
+UMiDIGI^UMIDIGI Z2^UMIDIGI Z2^May 2018
+UMiDIGI^UMIDIGI Z2 Pro^UMIDIGI Z2 Pro^May 2018
+UMiDIGI^Umidigi One^Umidigi One^May 2018
+UMiDIGI^UMIDIGI A1 Pro^UMIDIGI A1 Pro^March 2018
+UMiDIGI^UMiDIGI S2 Lite^UMiDIGI S2 Lite^August 2017
+UMiDIGI^UMiDIGI S2^UMiDIGI S2^August 2017
+UMiDIGI^UMiDIGI S2 Pro^UMiDIGI S2 Pro^August 2017
+UMiDIGI^UMiDIGI C2^UMiDIGI C2^July 2017
+UMiDIGI^UMiDIGI S^UMiDIGI S^July 2017
+UMiDIGI^UMiDIGI C Note 2^UMiDIGI C Note 2^June 2017
+UMiDIGI^UMiDIGI Z1^UMiDIGI Z1^June 2017
+UMiDIGI^UMIDigi Crystal^UMIDigi Crystal^June 2017
+UMiDIGI^UMiDIGI G^UMiDIGI G^May 2017
+UMiDIGI^UMiDIGI C Note^UMiDIGI C Note^March 2017
+UMiDIGI^UMiDigi Z Pro^UMiDigi Z Pro^February 2017
+Vernee^Vernee T3 Pro^Vernee T3 Pro^July 2018
+Vernee^Vernee V2 Pro^Vernee V2 Pro^May 2018
+Vernee^Vernee X1^Vernee X1^April 2018
+Vernee^Vernee V2^Vernee V2^March 2018
+Vernee^Vernee M6^Vernee M6^January 2018
+Vernee^Vernee X^Vernee X^December 2017
+Vernee^Vernee Active^Vernee Active^November 2017
+Vernee^Vernee Mix 2^Vernee Mix 2^September 2017
+Vernee^Vernee Thor Plus^Vernee Thor Plus^July 2017
+Vernee^Vernee M5^Vernee M5^July 2017
+Vernee^Vernee Mars Pro^Vernee Mars Pro^June 2017
+Vernee^Vernee Apollo X^Vernee Apollo X^March 2017
+Vernee^Vernee Thor E^Vernee Thor E^March 2017
+Vernee^Vernee Apollo^Vernee Apollo^October 2016
+Vernee^Vernee Mars^Vernee Mars^September 2016
+Vernee^Vernee Apollo Lite^Vernee Apollo Lite^April 2016
+Vernee^Vernee Thor^Vernee Thor^December 2015
+Vivo^Vivo Y81^Vivo Y81^August 2018
+Vivo^Vivo Z10^Vivo Z10^July 2018
+Vivo^Vivo Z1i^Vivo Z1i^June 2018
+Vivo^Vivo NEX^Vivo NEX|NEX A|PD1806|Vivo Nex Full Netcom^June 2018
+Vivo^Vivo NEX S^Vivo NEX S|Vivo Nex Ultimate^June 2018
+Vivo^Vivo Y83^Vivo Y83^April 2018
+Vivo^Vivo Y71^Vivo Y71^April 2018
+Vivo^Vivo V9^Vivo V9^March 2018
+Vivo^Vivo Y85^Vivo Y85^March 2018
+Vivo^Vivo X21^Vivo X21^March 2018
+Vivo^Vivo X21 UD^Vivo X21 UD^March 2018
+Vivo^Vivo X20 Plus UD^Vivo X20 Plus UD|X20Plus UD|X20+ UD^January 2018
+Vivo^Vivo V7+^Vivo V7+|V7 Plus|V7+^September 2017
+Vivo^Vivo Y53^Vivo Y53^September 2017
+Vivo^Vivo X20^Vivo X20^September 2017
+Vivo^Vivo X20 Plus^Vivo X20 Plus|X20Plus|X20+^September 2017
+Vivo^Vivo Y69^Vivo Y69^August 2017
+Vivo^Vivo X9s^Vivo X9s^July 2017
+Vivo^Vivo X9s Plus^Vivo X9s Plus|X9s+|X9sPlus^July 2017
+Vivo^Vivo V5s^Vivo V5s^May 2017
+Vivo^Vivo Y66^Vivo Y66^March 2017
+Vivo^VIvo Y55s^VIvo Y55s^February 2017
+Vivo^Vivo V5 Plus^Vivo V5 Plus^January 2017
+Vivo^Vivo V5^Vivo V5^November 2016
+Vivo^Vivo X9^Vivo X9^November 2016
+Vivo^Vivo Xplay 6^Vivo Xplay 6^November 2016
+Vivo^Vivo Y55L^Vivo Y55L^October 2016
+Vivo^Vivo Y21L^Vivo Y21L^August 2016
+Vivo^Vivo X7^Vivo X7^July 2016
+Vivo^Vivo X7 Plus^Vivo X7 Plus^July 2016
+Vivo^Vivo V3Max^Vivo V3Max^April 2016
+Vivo^Vivo X21i^Vivo X21i^Rumors
+VKworld^VKworld S8^VKworld S8^October 2017
+VKworld^VK7000^VK7000^October 2017
+VKworld^VKworld Mix^VKworld Mix^September 2017
+VKworld^VKworld Mix Plus^VKworld Mix Plus^August 2017
+VKworld^VKworld S3^VKworld S3^May 2017
+VKworld^VKworld T2 Plus^VKworld T2 Plus^February 2016
+VKworld^VKworld F1^VKworld F1^February 2015
+VKworld^VKworld Mix 2^VKworld Mix 2^Rumors
+Voto^Voto V2^Voto V2^December 2017
+Voto^Voto V2i^Voto V2i^December 2017
+Weimei^Weimei We Plus 3^Weimei We Plus 3^January 2018
+Weimei^Weimei Force^Weimei Force^July 2016
+Wiko^Wiko View 2 Go^Wiko View 2 Go|View2 Go|View2Go^August 2018
+Wiko^Wiko View 2 Plus^Wiko View 2 Plus^August 2018
+Wiko^Wiko Harry 2^Wiko Harry 2^August 2018
+Wiko^Wiko Lenny 5^Wiko Lenny 5^February 2018
+Wiko^Wiko Jerry 3^Wiko Jerry 3^February 2018
+Wiko^Wiko View Go^Wiko View Go^February 2018
+Wiko^Wiko View 2^Wiko View 2^February 2018
+Wiko^Wiko View Lite^Wiko View Lite^February 2018
+Wiko^Wiko View Max^Wiko View Max^February 2018
+Wiko^Wiko View 2 PRO^Wiko View 2 PRO^February 2018
+Wiko^Wiko Kenny^Wiko Kenny^December 2017
+Wiko^Wiko Lenny 4 Plus^Wiko Lenny 4 Plus|Lenny4 Plus|Lenny 4+|Lenny4+^September 2017
+Wiko^Wiko View XL^Wiko View XL^September 2017
+Wiko^Wiko Sunny 2 Plus^Wiko Sunny 2 Plus|Sunny 2Plus|Sunny 2+^September 2017
+Wiko^Wiko View^Wiko View^September 2017
+Wiko^Wiko View Prime^Wiko View Prime^September 2017
+Wiko^Wiko Lenny 4^Wiko Lenny 4^August 2017
+Wiko^Wiko Sunny 2^Wiko Sunny 2^August 2017
+Wiko^Wiko Harry^Wiko Harry^June 2017
+Wiko^Wiko Tommy 2^Wiko Tommy 2^June 2017
+Wiko^Wiko Jerry 2^Wiko Jerry 2^June 2017
+Wiko^Wiko Sunny Max^Wiko Sunny Max^April 2017
+Wiko^Wiko Jerry Max^Wiko Jerry Max^April 2017
+Wiko^Wiko U Pulse Lite^Wiko U Pulse Lite^February 2017
+Wiko^Wiko Wim^Wiko Wim^February 2017
+Wiko^Wiko U Pulse^Wiko U Pulse^February 2017
+Wiko^Wiko Freddy^Wiko Freddy^September 2016
+Wiko^Wiko U Feel Prime^Wiko U Feel Prime^September 2016
+Wiko^Wiko Jerry^Wiko Jerry^May 2016
+Wiko^Wiko U Feel^Wiko U Feel|9679^May 2016
+Wiko^Wiko Robby^Wiko Robby^May 2016
+Wiko^Wiko Sunny^Wiko Sunny^April 2016
+Wiko^Wiko Tommy^Wiko Tommy^February 2016
+Wiko^Wiko Lenny 3^Wiko Lenny 3^February 2016
+Wiko^Wiko Pulp^Wiko Pulp^December 2015
+Wiko^Wiko Lenny 2^Wiko Lenny 2^September 2015
+Wiko^Wiko Highway Pure 4G^Wiko Highway Pure 4G^March 2015
+Wiko^Wiko Highway Star 4G^Wiko Highway Star 4G^March 2015
+Wileyfox^Wileyfox Swift 2X^Wileyfox Swift 2X^January 2017
+Wileyfox^Wileyfox Swift 2^Wileyfox Swift 2^November 2016
+Wileyfox^Wileyfox Swift 2 Plus^Wileyfox Swift 2 Plus^November 2016
+Wileyfox^Wileyfox Spark^Wileyfox Spark^June 2016
+Wileyfox^Wileyfox Spark X^Wileyfox Spark X^June 2016
+Wileyfox^Wileyfox Swift^Wileyfox Swift^September 2015
+Wolder^Wolder WIAM #65 Lite^Wolder WIAM #65 Lite^November 2016
+Wolder^Wolder WIAM #65^Wolder WIAM #65^July 2016
+Wolder^Wolder WIAM #71+^Wolder WIAM #71+^May 2016
+Wolder^Wolder WIAM #46^Wolder WIAM #46^November 2015
+Xiaomi^Pocophone F1^Pocophone F1|Xiaomi Poco F1^August 2018
+Xiaomi^Xiaomi Mi A2 Lite^Xiaomi Mi A2 Lite^July 2018
+Xiaomi^Xiaomi Mi A2^Xiaomi Mi A2|Xiaomi MiA2|Jasmine^July 2018
+Xiaomi^Xiaomi Mi Max 3^Xiaomi Mi Max 3^July 2018
+Xiaomi^Xiaomi Redmi 6 Pro^Xiaomi Redmi 6 Pro^June 2018
+Xiaomi^Xiaomi Redmi 6A^Xiaomi Redmi 6A^June 2018
+Xiaomi^Xiaomi Redmi 6^Xiaomi Redmi 6^June 2018
+Xiaomi^Xiaomi Redmi Y2^Xiaomi Redmi Y2^June 2018
+Xiaomi^Xiaomi Mi8 SE^Xiaomi Mi8 SE|Xiaomi Mi 8 SE^May 2018
+Xiaomi^Xiaomi Mi8 Global^Xiaomi Mi8 Global|Xiaomi Mi 8^May 2018
+Xiaomi^Xiaomi Redmi S2^Xiaomi Redmi S2|Redmi Y2^May 2018
+Xiaomi^Xiaomi Mi 6x^Xiaomi Mi 6x|Xiaomi Mi6x^April 2018
+Xiaomi^Xiaomi Black Shark^Xiaomi Black Shark^April 2018
+Xiaomi^Xiaomi Mi Mix 2s^Xiaomi Mi Mix 2s|Polaris^March 2018
+Xiaomi^Xiaomi Redmi Note 5^Xiaomi Redmi Note 5|Red Rice Note 5^March 2018
+Xiaomi^Xiaomi Redmi Note 5 Pro^Xiaomi Redmi Note 5 Pro^February 2018
+Xiaomi^Xiaomi Redmi 5^Xiaomi Redmi 5^December 2017
+Xiaomi^Xiaomi Redmi 5 Plus^Xiaomi Redmi 5 Plus|Hongmi Rice 5^December 2017
+Xiaomi^Xiaomi Redmi Y1^Xiaomi Redmi Y1^November 2017
+Xiaomi^Xiaomi Redmi 5A^Xiaomi Redmi 5A|Hongmi 5A|Red Rise 5A^October 2017
+Xiaomi^Xiaomi Mi Note 3^Xiaomi Mi Note 3^September 2017
+Xiaomi^Xiaomi Mi Mix 2^Xiaomi Mi Mix 2|Mi Mix Evo|Mi Mix2|Chiron^September 2017
+Xiaomi^Xiaomi Mi A1^Xiaomi Mi A1|Xiaomi MiA1^September 2017
+Xiaomi^Xiaomi Redmi Note 5A^Xiaomi Redmi Note 5A|Redmi Rise Note 5A|Hongmi Rice 5A^August 2017
+Xiaomi^Xiaomi Mi5x^Xiaomi Mi5x|Xiaomi Mi 5x^June 2017
+Xiaomi^Xiaomi Mi Max 2^Xiaomi Mi Max 2^May 2017
+Xiaomi^Xiaomi Mi6^Xiaomi Mi6|xiaomi Mi 6^April 2017
+Xiaomi^Xiaomi Redmi 4X^Xiaomi Redmi 4X|Hongmi 4X|Red Rise 4X^February 2017
+Xiaomi^Xiaomi Mi5c^Xiaomi Mi5c|Xiaomi mi 5c^February 2017
+Xiaomi^Xiaomi Redmi Note 4X^Xiaomi Redmi Note 4X^February 2017
+Xiaomi^Xiaomi Redmi 4A^Xiaomi Redmi 4A|Xiaomi Hongmi 4A^November 2016
+Xiaomi^Xiaomi Redmi 4^Xiaomi Redmi 4|Xiaomi Hongmi 4^November 2016
+Xiaomi^Xiaomi Redmi 4 Prime^Xiaomi Redmi 4 Prime|Xiaomi Hongmi 4|Xiaomi Redmi 4 Pro^November 2016
+Xiaomi^Xiaomi Mi Note 2^Xiaomi Mi Note 2^October 2016
+Xiaomi^Xiaomi Mi Mix^Xiaomi Mi Mix^October 2016
+Xiaomi^Xiaomi Mi5s Plus^Xiaomi Mi5s Plus|Xiaomi Mi 5s Plus^September 2016
+Xiaomi^Xiaomi Mi5s^Xiaomi Mi5s|Xiaomi Mi 5s^September 2016
+Xiaomi^Xiaomi Redmi Note 4^Xiaomi Redmi Note 4^August 2016
+Xiaomi^Xiaomi Redmi 3S^Xiaomi Redmi 3S|Hongmi 3S 16GB|Red Rise 3S 16GB^June 2016
+Xiaomi^Xiaomi Mi Max^Xiaomi Mi Max|xiaomi max^May 2016
+Xiaomi^Xiaomi Redmi Note 3 Pro^Xiaomi Redmi Note 3 Pro|Hongmi Note 3 Pro|Red Rice Note 3 Pro^March 2016
+Xiaomi^Xiaomi Redmi 3 Pro^Xiaomi Redmi 3 Pro|Hongmi 3 High Version|Red Rise 3 High Version|Redmi 3 3GB|Redmi 3 High Version|Hongmi 3 Pro|Red Rise 3 Pro^March 2016
+Xiaomi^Xiaomi Mi5^Xiaomi Mi5|Xiaomi Mi 5^February 2016
+Xiaomi^Xiaomi Redmi 3^Xiaomi Redmi 3|Xiaomi Hongmi 3^January 2016
+Xiaomi^Xiaomi Redmi Note 3^Xiaomi Redmi Note 3|Hongmi Note 3|Red Rice Note 3^November 2015
+Xiaomi^Xiaomi Mi4c^Xiaomi Mi4c^September 2015
+Xiaomi^Xiaomi Redmi Note 2^Xiaomi Redmi Note 2^August 2015
+Xiaomi^Xiaomi Mi4^Xiaomi Mi4^July 2014
+Xiaomi^Xiaomi Mi3^Xiaomi Mi3^December 2013
+Xolo^Xolo Era 2X^Xolo Era 2X^January 2018
+Xolo^Xolo Era 2V^Xolo Era 2V^October 2017
+Xolo^Xolo Era 3^Xolo Era 3^October 2017
+Xolo^Xolo Era 3X^Xolo Era 3X^October 2017
+Xolo^Xolo Era 1X Pro^Xolo Era 1X Pro^July 2017
+Xolo^Xolo Era 2^Xolo Era 2^October 2016
+Xolo^Xolo Era 1X^Xolo Era 1X^September 2016
+Xolo^Xolo Black^Xolo Black^July 2015
+Yota Devices^Yota Devices YotaPhone 3^Yota Devices YotaPhone 3|YotaPhone3|Yota 3|Yota3^August 2017
+YU^YU Yunique 2^YU Yunique 2|Yunique2|YU5011^August 2017
+YU^YU Yureka Black^YU Yureka Black^June 2017
+YU^YU Yureka S^YU Yureka S^August 2016
+YU^YU Yunicorn^YU Yunicorn^June 2016
+YU^YU Yureka Note^YU Yureka Note|Yureka Note|YU6000^May 2016
+YU^YU Yunique^YU Yunique^February 2016
+YU^YU Yuphoria^YU Yuphoria^May 2015
+Zoji^Zoji Z33^Zoji Z33^August 2018
+Zoji^Zoji Z9^Zoji Z9|Homtom Zoji Z9^July 2018
+Zoji^Zoji Z8^Zoji Z8^September 2017
+Zoji^Zoji Z6^Zoji Z6^March 2017
+Zoji^Zoji Z7^Zoji Z7^March 2017
+Zopo^Zopo Flash X Plus^Zopo Flash X Plus^April 2018
+Zopo^Zopo Color M4^Zopo Color M4^April 2017
+Zopo^Zopo Flash G5 Plus^Zopo Flash G5 Plus|Flash G5Plus|Flash G5+^December 2016
+Zopo^Zopo Color C3^Zopo Color C3^November 2016
+Zopo^Zopo Color C2^Zopo Color C2^September 2016
+Zopo^Zopo Color F5^Zopo Color F5^August 2016
+Zopo^Zopo Hero 2^Zopo Hero 2^July 2016
+Zopo^Zopo Color F2^Zopo Color F2^June 2016
+Zopo^Zopo Color S5.5^Zopo Color S5.5^November 2015
+Zopo^Zopo Color C ZP330^Zopo Color C ZP330^June 2015
+Zopo^Zopo Speed 7^Zopo Speed 7^May 2015
+Zopo^Zopo Speed 7 Plus^Zopo Speed 7 Plus|ZP952^May 2015
+Zopo^Zopo Color E ZP350^Zopo Color E ZP350^May 2015
+Zopo^Zopo Flash E^Zopo Flash E^April 2015
+Zopo^Zopo ZP920^Zopo ZP920^January 2015
+Zopo^Zopo ZP520^Zopo ZP520^July 2014
+Zopo^Zopo ZP998^Zopo ZP998^March 2014
+Zopo^Zopo ZP780^Zopo ZP780^February 2014
+Zopo^Zopo C3^Zopo C3^June 2013
+Zopo^Zopo C2^Zopo C2^June 2013
+ZTE^ZTE Blade V9^ZTE Blade V9^February 2018
+ZTE^ZTE Blade A3 (2017)^ZTE Blade A3 (2017)^October 2017
+ZTE^ZTE Axon M^ZTE Axon M^October 2017
+ZTE^ZTE Blade A6^ZTE Blade A6^August 2017
+ZTE^ZTE Blade A6 Lite^ZTE Blade A6 Lite^July 2017
+ZTE^ZTE Blade L7^ZTE Blade L7^July 2017
+ZTE^ZTE Blade V8 Lite^ZTE Blade V8 Lite^February 2017
+ZTE^ZTE Blade V8 Mini^ZTE Blade V8 Mini^February 2017
+ZTE^ZTE Blade A520^ZTE Blade A520^January 2017
+ZTE^ZTE Blade A612^ZTE Blade A612^January 2017
+ZTE^ZTE Blade V8^ZTE Blade V8^January 2017
+ZTE^ZTE Blade A2 Plus^ZTE Blade A2 Plus^October 2016
+ZTE^ZTE Blade A610 Plus^ZTE Blade A610 Plus^August 2016
+ZTE^ZTE Blade A610^ZTE Blade A610^August 2016
+ZTE^ZTE Axon 7 mini^ZTE Axon 7 mini^August 2016
+ZTE^ZTE Blade A510^ZTE Blade A510^June 2016
+ZTE^Zte Blade A2^Zte Blade A2^June 2016
+ZTE^ZTE Axon 7^ZTE Axon 7|Axon Secret 7|A2017G^May 2016
+ZTE^ZTE Blade A910^ZTE Blade A910^April 2016
+ZTE^ZTE Blade L5 Plus^ZTE Blade L5 Plus^April 2016
+ZTE^ZTE Blade A512^ZTE Blade A512^April 2016
+ZTE^ZTE Blade V580^ZTE Blade V580^March 2016
+ZTE^ZTE Blade A506^ZTE Blade A506^March 2016
+ZTE^ZTE Blade V7 Lite^ZTE Blade V7 Lite^February 2016
+ZTE^ZTE Blade A711^ZTE Blade A711|Mighty 3|N939Sc|V3 Extreme Edition^January 2016
+ZTE^Zte Blade A452^Zte Blade A452^November 2015
+ZTE^ZTE Axon Mini^ZTE Axon Mini^October 2015
+ZTE^ZTE Blade V6^ZTE Blade V6^March 2015
+ZTE^ZTE Blade S6^ZTE Blade S6^January 2015
+ZTE^ZTE Blade Vec 4G^ZTE Blade Vec 4G|Orange Rono^September 2014
+Zuk^Zuk Edge^Zuk Edge^December 2016
+Zuk^ZUK Z2^ZUK Z2|Lenovo Z2 Plus^May 2016
+Zuk^ZUK Z2 Pro^ZUK Z2 Pro^April 2016
+Zuk^ZUK Z1^ZUK Z1^August 2015
